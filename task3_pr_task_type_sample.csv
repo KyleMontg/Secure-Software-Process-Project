@@ -1,0 +1,1000 @@
+PRID,PRTITLE,PRREASON,PRTYPE,CONFIDENCE
+3264933329,Fix: Wait for all partitions in load_collection when some are still loading,title provides conventional commit label,fix,10
+3265709660,feat: add comprehensive README screenshots with optimized layout,title provides conventional commit label,feat,10
+3265782173,chore: remove HashedPostStateProvider trait,title provides conventional commit label,chore,10
+3231949586,feat(swagger): Add Swagger annotations to Batch 1 - Core Authentication & User Management,title provides conventional commit label,feat,10
+3231950376,feat(swagger): Add Swagger annotations to Batch 2 - Content Management Core,title provides conventional commit label,feat,10
+3231951012,feat: add Swagger annotations to Batch 3 - Site Architecture & Templates,title provides conventional commit label,feat,10
+3231951656,feat: add Swagger annotations to Batch 4 - System Administration,title provides conventional commit label,feat,10
+3231952364,feat: add Swagger annotations to Batch 5 - Publishing & Distribution,title provides conventional commit label,feat,10
+3231953027,feat: add Swagger annotations to Batch 6 - Rules Engine & Business Logic,title provides conventional commit label,feat,10
+3231953757,feat: add Swagger annotations to Batch 7 - Modern APIs & Specialized Services,title provides conventional commit label,feat,10
+3231954470,feat: add Swagger annotations to Batch 8 - Legacy & Utility Resources,title provides conventional commit label,feat,10
+3231955292,feat: finalize Swagger annotations implementation - Batch 9 cleanup,title provides conventional commit label,feat,10
+3232844270,feat: Implement asymmetric VMEC support (lasym=true),title provides conventional commit label,feat,10
+3234102722,chore: Convert hive-mind coordination system to TypeScript,title provides conventional commit label,chore,10
+3212961701,fix: Add missing logger.js and resolve MCP server issues (v1.0.17),title provides conventional commit label,fix,10
+3214724259,feat: add comprehensive test coverage for forms plugin,title provides conventional commit label,feat,10
+3214876564,fix: critical issues in action chaining implementation,title provides conventional commit label,fix,10
+3215730319,Fix logdet returning finite values for singular matrices on CUDA ,title provides conventional commit label,fix,10
+3215868710,feat: add split-pr command for managing large pull requests,title provides conventional commit label,feat,10
+3216706697,feat: Add comprehensive GitHub Actions workflow documentation,title provides conventional commit label,feat,10
+3216793862,fix(shell): all shellcheck issues (except quotes),title provides conventional commit label,fix,10
+3164503419,Fix Claude animation flickering with vt10x-inspired terminal state deduplication,title provides conventional commit label,fix,10
+3164567685,fix: Complete removal of all mock/placeholder code and fix signature validation (#1007),title provides conventional commit label,fix,10
+3164736230,feat: Implement autonomous marketplace agent (Issue #1013),title provides conventional commit label,feat,10
+3165060364,"feat: Implement NIPs from SNSTR, nostr-tools, and NDK (Issue #913)",title provides conventional commit label,feat,10
+3165146820,docs: Clean up nostr package and add comprehensive documentation,title provides conventional commit label,docs,10
+3165176791,feat: Add T-SQL dialect support,title provides conventional commit label,feat,10
+3165407647,feat: Add Behat BDD testing framework integration,title provides conventional commit label,feat,10
+3165431934,feat: Update slides presentation with new content and improvements,title provides conventional commit label,feat,10
+3165440543,Fix agents page module resolution error and update slides presentation,title provides conventional commit label,fix,10
+3165441855,fix: Remove SDK import causing module resolution error on agents page,title provides conventional commit label,fix,10
+3165503646,fix: Replace REST API with WebSocket for agent spawning,title provides conventional commit label,fix,10
+3271660213,feat: upgrade to Expo SDK 53 with modern architecture and tooling,title provides conventional commit label,feat,10
+3271740125,docs: improve README structure and add comprehensive script documentation,title provides conventional commit label,docs,10
+3271748860,fix: handle PUT/UPDATE operations when gateway has no peer connections,title provides conventional commit label,fix,10
+3271943252,fix: add comprehensive global readonly superuser endpoint testing (PROJQUAY-8279),title provides conventional commit label,fix,10
+3271988317,feat: Complete Convex→Confect migration + Device sync research and APM improvements,title provides conventional commit label,feat,10
+3272275087,feat: Add tag support for API Keys and fix OAuth token exchange,title provides conventional commit label,feat,10
+3272397381,Fix: Preserve empty string config values in StripConfig,title provides conventional commit label,fix,10
+3272907868,feat: Implement secure blockchain key storage with encryption and audit logging,title provides conventional commit label,feat,10
+3273233066,feat: implement comprehensive species tracking system with seasonal/yearly detection badges,title provides conventional commit label,feat,10
+3273243547,"fix(tool-stub): use URL hash as version for HTTP backend with ""latest""",title provides conventional commit label,fix,10
+3219102497,Test version update error handling,title provides conventional commit label,test,10
+3219880512,feat(backend): Integrate GCS file storage with automatic expiration for Agent File Input,title provides conventional commit label,feat,10
+3220367089,Fix race conditions in myaudio package,title provides conventional commit label,fix,10
+3221520140,fix: unify static file paths across Deno and Node.js builds,title provides conventional commit label,fix,10
+2882576893,docs: add CLAUDE.md for development guidance,title provides conventional commit label,docs,10
+2886171819,Fix assertion error in UniPC scheduler for high step counts,title provides conventional commit label,fix,10
+2888099084,chore: add CLAUDE.md with development guide,title provides conventional commit label,chore,10
+2888657232,Fix assertion error in UniPC scheduler for high step counts,title provides conventional commit label,fix,10
+2889835337,feat: Add Amazon Bedrock integration,title provides conventional commit label,feat,10
+2889875255,feat: Add Amazon Bedrock integration,title provides conventional commit label,feat,10
+2889940236,fix: improve authentication with token refresh and expiry handling,title provides conventional commit label,fix,10
+2889940415,feat: enhance audio quality for playback,title provides conventional commit label,feat,10
+2894762370,feat: add AWS Bedrock support,title provides conventional commit label,feat,10
+3262310380,refactor: rename chain_dag to chain_let for semantic clarity,title provides conventional commit label,refactor,10
+3262649320,fix: implement comprehensive LiveStore events API with streaming and advanced filtering,title provides conventional commit label,fix,10
+3263199127,Fix multiline function signature parsing,title provides conventional commit label,fix,10
+3263692368,fix(misc): validate workspace names to reject names starting with numbers,title provides conventional commit label,fix,10
+3098322647,feat: add --catalog-only flag to run bundle command,title provides conventional commit label,feat,10
+3098972655,chore(repo): setup claude code,title provides conventional commit label,chore,10
+3142373237,feat: Add scan command with AI model search and parallel config generation,title provides conventional commit label,feat,10
+3144015338,Fix: CoreSimulator API compatibility for Xcode 16+,title provides conventional commit label,fix,10
+3145923591,Feat/lerobot integration,title provides conventional commit label,feat,10
+3146561196,feat: add version management scripts and CI check,title provides conventional commit label,feat,10
+3165662397,feat: add proxy support for network-restricted environments,title provides conventional commit label,feat,10
+3165677582,Refactor: Transform to GitHub Issue Management System (#1),title provides conventional commit label,refactor,10
+3165750951,feat: Complete Phase 5 - Real Bank Integration & API Documentation,title provides conventional commit label,feat,10
+3199027461,feat(notification): add structured logging with privacy scrubbing,title provides conventional commit label,feat,10
+3199564335,Fix parsing to better handle branch/tag/subdir specifiers in complex URLs and paths,title provides conventional commit label,fix,10
+3199623142,feat: create docs-v2 structure with diataxis framework,title provides conventional commit label,feat,10
+3200946614,fix: replace unreliable FedericoCarboni/setup-ffmpeg with apt-get install,title provides conventional commit label,fix,10
+3202135682,Fix reference_manifest_isolated_test to use temporary directory,title provides conventional commit label,fix,10
+3202692899,feat: Epic #66 - Global and Local Scopes for ruv-swarm (100% Complete),title provides conventional commit label,feat,10
+3203032594,fix: Resolve Issue #12 - MCP Server Discovery and Tool Registration Reliability,title provides conventional commit label,fix,10
+3250200794,Refactor matrix functions for fixed dimension conventions,title provides conventional commit label,refactor,10
+3251370397,feat: strip openrouter/ prefix from model name,title provides conventional commit label,feat,10
+3251544513,"feat(store): implement full LiveStore events API with advanced filtering, streaming, and batch querying",title provides conventional commit label,feat,10
+3251609070,feat: implement comprehensive configuration validation framework,title provides conventional commit label,feat,10
+3107321792,"Fix comprehensive Windows compatibility issues - shell execution, file locking, and cross-platform support",title provides conventional commit label,fix,10
+3109706862,fix: return compression info when primary output is disabled,title provides conventional commit label,fix,10
+3109791380,fix: prevent UninitializedPropertyAccessException crash in developer menu,title provides conventional commit label,fix,10
+3111420697,feat: add settings.local.json for permission configuration,title provides conventional commit label,feat,10
+3115027048,feat: Add version setting to blue-green deploy command,title provides conventional commit label,feat,10
+3115760621,fix: resolve dependency conflict preventing npx @modelcontextprotocol/inspector from running,title provides conventional commit label,fix,10
+3116600521,feat\!: Add M4A support with preferRawStream option,title provides conventional commit label,feat,10
+3181506569,feat: Complete Phase 1 MVP Storybook Components Implementation,title provides conventional commit label,feat,10
+3181578456,fix: T-SQL CV07 outer parentheses removal,title provides conventional commit label,fix,10
+3245454530,feat: Fix MCP Server integration and enhance UI components,title provides conventional commit label,feat,10
+3245456977,chore(providers): add GitHub Models provider,title provides conventional commit label,chore,10
+3245466752,Fix `mcp-json` output format to include server name,title provides conventional commit label,fix,10
+3245584783,feat(gfql): PR 1.3 - Call Operations for safe method execution,title provides conventional commit label,feat,10
+3245668511,fix: use proper units in queryStatisticsForQuantity to prevent crashes,title provides conventional commit label,fix,10
+3258872453,fix: resolve hive-mind sessions.forEach error (fixes #453),title provides conventional commit label,fix,10
+3260232103,feat: add send-as alias support with custom display names,title provides conventional commit label,feat,10
+3260236912,feat: Add agent chat and runbook management,title provides conventional commit label,feat,10
+3260887009,Fix startup errors and implement real-time Effect streaming,title provides conventional commit label,fix,10
+3187718516,feat: Add generic tree-sitter parser with configuration file support,title provides conventional commit label,feat,10
+3188858394,feat: implement async notification and telemetry system (Phase 1-3),title provides conventional commit label,feat,10
+3188865855,Feat: Barcode integration,title provides conventional commit label,feat,10
+3189507528,feat(telemetry): Phase 7 - Initialization Safety,title provides conventional commit label,feat,10
+3190390949,Fix: Prevent empty query execution in vector store,title provides conventional commit label,fix,10
+3086930190,feat: Add procedural API (v1) for flexible conversation analysis pipelines,title provides conventional commit label,feat,10
+3088173646,feat: Add Kura Explorer - Web interface for analyzing conversation clusters,title provides conventional commit label,feat,10
+3088176007,feat: Add Kura Explorer database layer,title provides conventional commit label,feat,10
+3091332769,"feat: implement v0.2.0 with verbose logging, dry-run mode, and enhanced documentation",title provides conventional commit label,feat,10
+3133399556,feat: environment variable support,title provides conventional commit label,feat,10
+3133544722,Fix: Remove unnecessary async declarations from synchronous methods,title provides conventional commit label,fix,10
+3139315341,feat(rag2): add complete Ingest Pipeline functionality,title provides conventional commit label,feat,10
+3140025663,fix: Add Windows UAC execution level support to manifest template,title provides conventional commit label,fix,10
+3140073726,feat: add custom field support for property group options,title provides conventional commit label,feat,10
+3203754242,feat: Bind service interfaces to implementations,title provides conventional commit label,feat,10
+3203856259,docs: complete JSDoc documentation coverage for Effect library,title provides conventional commit label,docs,10
+3203910456,feat: 解决工具沙箱缓存机制问题，增加forceReinstall参数支持,title provides conventional commit label,feat,10
+3204637024,feat: complete Schema.ts JSDoc documentation with all examples compilation fixed,title provides conventional commit label,feat,10
+3204772289,feat: Implement MCP Server GUI Controller,title provides conventional commit label,feat,10
+3204784776,docs: Update documentation for Phase 8 advanced trading features,title provides conventional commit label,docs,10
+3205273752,feat: Add comprehensive formal verification framework for ruv-FANN,title provides conventional commit label,feat,10
+3205839196,feat: Implement comprehensive JSON schema validation with Zod integration,title provides conventional commit label,feat,10
+3246950577,fix: export from pylock.toml produces empty requirements.txt (#3573),title provides conventional commit label,fix,10
+3247725112,docs: add critical ElizaOS component clarifications to CLAUDE.md,title provides conventional commit label,docs,10
+3248139288,docs(gfql): Comprehensive Let bindings and Call operations documentation,title provides conventional commit label,docs,10
+3248259820,fix: handle optional fields without defaults in client documents (#487),title provides conventional commit label,fix,10
+3248781517,feat: Add stdin support for reading unified diffs,title provides conventional commit label,feat,10
+3175209026,Fix docs routing for `classic-ml` pages in `docs/changed_pages.py`,title provides conventional commit label,fix,10
+3177654490,feat: remove redundant column.unique field from schema,title provides conventional commit label,feat,10
+3178007458,feat: Integrate AI-Framework collaboration rules with SuperClaude,title provides conventional commit label,feat,10
+3179729495,feat: Add Storybook for component-driven development,title provides conventional commit label,feat,10
+3244853040,fix: implement missing hooks (completion:error and completion:last_attempt),title provides conventional commit label,fix,10
+3245161961,feat(gfql): PR 1.2 - Basic Working DAG execution,title provides conventional commit label,feat,10
+3245313058,Fix Linux compatibility by conditionally disabling SQLite snapshots,title provides conventional commit label,fix,10
+3245346788,feat: simplify Node.js runtime with Hono v1.17.0 absolute path support,title provides conventional commit label,feat,10
+3266170682,feat: Implement unified session history showing both local and Convex sessions,title provides conventional commit label,feat,10
+3266316354,feat: Implement historical APM chart with time-series visualization,title provides conventional commit label,feat,10
+3266626830,fix: Resolve cargo build errors and warnings,title provides conventional commit label,fix,10
+3266763733,feat: Complete 4-phase authentication integration - Remove duplication & add production hardening,title provides conventional commit label,feat,10
+3226800461,feat: Add comprehensive Docker Compose support with development and production configurations,title provides conventional commit label,feat,10
+3229333583,fix: exclude documentation changes from Docker builds and fix tag generation,title provides conventional commit label,fix,10
+3229732955,feat: add batch token prediction system,title provides conventional commit label,feat,10
+3230351703,fix: CI/CD test failures and establish working test baseline,title provides conventional commit label,fix,10
+3159415433,fix: memory leaks and server stability issues,title provides conventional commit label,fix,10
+3160495699,feat: Implement GCU foundation features for Phase 4,title provides conventional commit label,feat,10
+3160647911,"feat: LayerZeroSettler with latest escrow, and settlement architecture",title provides conventional commit label,feat,10
+3160653118,feat: implement LayerZero v2 settlement system for trustless cross-chain attestation,title provides conventional commit label,feat,10
+3160894112,feat: Add maintenance mode and cleanup CLI commands,title provides conventional commit label,feat,10
+3161355858,feat: Local-first chat persistence with PGlite + Effect framework,title provides conventional commit label,feat,10
+3161358535,feat: Implement enhanced user bank allocation system (Phase 4.1),title provides conventional commit label,feat,10
+3163243464,fix: add offline flag support to blocks command,title provides conventional commit label,fix,10
+3164258008,feat: Quick Win #5 - Documentation consolidation,title provides conventional commit label,feat,10
+3164310340,feat: Quick Win #6 - Demo environment setup,title provides conventional commit label,feat,10
+3274969873,fix(go): add mutex to prevent concurrent access issues in html-to-markdown,title provides conventional commit label,fix,10
+3275134373,feat(tool-stubs): add auto-platform detection from URLs,title provides conventional commit label,feat,10
+3275367954,feat: Enhanced Claude Code UI with Complete Transparency,title provides conventional commit label,feat,10
+3275609390,fix(backend): Fix LLM blocks call tracking,title provides conventional commit label,fix,10
+3276585540,feat(helm): Enhance Helm chart for ArgoCD integration and external resources,title provides conventional commit label,feat,10
+3254644542,docs(gfql): Consolidate wire protocol documentation,title provides conventional commit label,docs,10
+3255142482,refactor(webhooks): use REQUEST_TIME_OUT constant for outgoing webhooks,title provides conventional commit label,refactor,10
+3197344409,feat: Add YAML agent configuration support,title provides conventional commit label,feat,10
+3197644488,docs: add release notes for v0.0.4,title provides conventional commit label,docs,10
+3166199077,feat: Phase 7.1 - Basket Asset Performance Tracking,title provides conventional commit label,feat,10
+3166521009,feat: Connect chat UI to Cloudflare Workers AI integration,title provides conventional commit label,feat,10
+3166710563,feat: add comprehensive hotkeys across all menu components,title provides conventional commit label,feat,10
+3167450477,feat(db-structure): deprecate schema.relationships in favor of constraintsToRelationships,title provides conventional commit label,feat,10
+3147421099,feat: add Claude Code SDK provider integration,title provides conventional commit label,feat,10
+3147721605,feat: optional Claude co-author trailer (ADD_CLAUDE_COAUTHOR),title provides conventional commit label,feat,10
+3150229181,Fix Google model restriction parameter order (follow-up to #60),title provides conventional commit label,fix,10
+3207894445,fix: address code review comments from PR #886,title provides conventional commit label,fix,10
+3208990831,feat: implement immutable HashSet module,title provides conventional commit label,feat,10
+3209373025,feat: complete TxHashSet transactional set module implementation,title provides conventional commit label,feat,10
+3209723205,"Fix: Comprehensive test cleanup and lint infrastructure (Issues #120, #154)",title provides conventional commit label,fix,10
+3210688776,test: trigger CI tests on all platforms,title provides conventional commit label,test,10
+3212206965,feat: add buffer pool for audio conversion,title provides conventional commit label,feat,10
+3212218608,fix: migrate interface client operations from NetworkClientFactory to…,title provides conventional commit label,fix,10
+3212306696,Fix: Resolve browser multiplication issue in Puppeteer MCP server,title provides conventional commit label,fix,10
+3184850059,Refactor clint rules: split rules.py into individual rule files,title provides conventional commit label,refactor,10
+3185859728,feat: Transaction monitoring and fraud detection system,title provides conventional commit label,feat,10
+3118662815,fix: agent cross interference loop,title provides conventional commit label,fix,10
+3119417980,feat: Add includeStackTrace option to reduce LLM token usage by 80-90%,title provides conventional commit label,feat,10
+3119750112,fix(ai): Fix Claude Code CLI integration issues,title provides conventional commit label,fix,10
+3120813048,fix: prevent 500 error when editing categories due to missing apply button,title provides conventional commit label,fix,10
+3124293906,feat: Add --preplanned flag to use existing plan files,title provides conventional commit label,feat,10
+3124372773,feat: Add official OpenTofu support,title provides conventional commit label,feat,10
+3234660269,"Fix T-SQL parsing issues: OPENJSON, FOR JSON/XML, SET TRANSACTION, IF/ELSE, EXEC, and multiple BEGIN/END blocks",title provides conventional commit label,fix,10
+3235395709,Fix file save blocking on entry refresh for improved hot reload performance,title provides conventional commit label,fix,10
+3235659006,feat: implement multi-profile,title provides conventional commit label,feat,10
+3235820229,feat: implement accordion UI for DDL/DML query results,title provides conventional commit label,feat,10
+3237343612,Fix log file output message and remove emojis,title provides conventional commit label,fix,10
+3222268735,feat(backend): Add ElevenLabs API integration,title provides conventional commit label,feat,10
+3223924413,fix: correct file ownership in java-connector-base Dockerfile,title provides conventional commit label,fix,10
+3224085262,feat(mobile): Add user setting for default bookmark view mode,title provides conventional commit label,feat,10
+3269703997,fix: Remove all 'as any' type assertions from codebase,title provides conventional commit label,fix,10
+3269741497,feat: 增加AI配置自定义请求头功能,title provides conventional commit label,feat,10
+3269831635,fix: Resolve React 19 JSX component type compatibility issues,title provides conventional commit label,fix,10
+3269888763,Fix DTO boolean handling for database numeric types #13419,title provides conventional commit label,fix,10
+3270842985,fix: handle missing 'name' key in memory JSON import,title provides conventional commit label,fix,10
+3271014961,feat: implement comprehensive species tracking system with seasonal detection,title provides conventional commit label,feat,10
+2905716327,refactor(twap): implement strategy pattern for accumulator updates,title provides conventional commit label,refactor,10
+2905748105,refactor(gamm): change CalcOutAmtGivenIn to take sdk.Coin instead of sdk.Coins,title provides conventional commit label,refactor,10
+2909640593,feat: 添加夜间模式功能,title provides conventional commit label,feat,10
+2915198291,docs: improve documentation structure with visual diagrams,title provides conventional commit label,docs,10
+2915204489,docs: improve search and navigation with examples browser,title provides conventional commit label,docs,10
+2915784381,refactor: migrate ArtistNationalityFilter spec from Enzyme to RTL ,title provides conventional commit label,refactor,10
+2916677326,refactor(BidButton): convert class component to functional component,title provides conventional commit label,refactor,10
+3240533897,feat(auto_client): add comprehensive api_key parameter support for all providers,title provides conventional commit label,feat,10
+3241840766,feat: Add support for multiple tool calls in a single message,title provides conventional commit label,feat,10
+3225725945,Fix Safari clipboard paste,title provides conventional commit label,fix,10
+3225792521,Fix Claude Code hook setup for multi-agent development,title provides conventional commit label,fix,10
+3225792685,fix(ruv-swarm-mcp): comprehensive debugging and functionality restoration,title provides conventional commit label,fix,10
+3226043406,feat: lazy load CLI command actions for improved startup performance,title provides conventional commit label,feat,10
+3226060777,feat: improve audio feedback warning logic and add comprehensive i18n support,title provides conventional commit label,feat,10
+3226401427,Fix Discord presence module error handling (Fixes #5535),title provides conventional commit label,fix,10
+3226475067,chore: release test to staging,title provides conventional commit label,chore,10
+3226500911,chore: 强制合并test分支到staging - 以test为主,title provides conventional commit label,chore,10
+3226627949,feat(cpu-threading): integrate CLI with threading system and unify TTS API,title provides conventional commit label,feat,10
+3226645641,feat: implement service types and standardized interfaces with getServicesByType() method,title provides conventional commit label,feat,10
+3267198858,Fix CI and consolidate AnyCodable implementation,title provides conventional commit label,fix,10
+3267602007,"feat(gfql): Consolidated GFQL core implementation - AST nodes, Let bindings, Call operations",title provides conventional commit label,feat,10
+3267605140,docs(gfql): Comprehensive GFQL documentation updates,title provides conventional commit label,docs,10
+2936982220,chore: update golang to 1.24.1,title provides conventional commit label,chore,10
+2970665095,build: Update PyO3 dependencies to version 0.24.1 and adjust Python binding initialization,title provides conventional commit label,build,10
+2975165913,Fix broken links to notebooks,title provides conventional commit label,fix,10
+2990012909,docs: update changelog with v4.0.0-alpha entries organized by version,title provides conventional commit label,docs,10
+3029855439,Fix GO:0036402 proteasome-activating activity term relationships,title provides conventional commit label,fix,10
+3037985682,feat: update changelog as part of `bump-versions` script,title provides conventional commit label,feat,10
+3054252195,fix(client): correctly marshal `text/plain` requests,title provides conventional commit label,fix,10
+3255598859,chore(ci): Make the core CICD workflows failfast (#32768),title provides conventional commit label,chore,10
+3256172444,feat: Support llm-based message summarization by introducing Transformer mechanism,title provides conventional commit label,feat,10
+3258270000,feat: Integrate Commander's draggable/resizable pane system and hotbar,title provides conventional commit label,feat,10
+3190681974,fix: resolve MCP-Hub tool validation errors for project management functions,title provides conventional commit label,fix,10
+3193198936,feat(telemetry): implement performance testing framework (Phase 8),title provides conventional commit label,feat,10
+3193248030,feat: add Coder registry links to template creation and editing (cherry-pick #18680),title provides conventional commit label,feat,10
+3193786351,chore(swagger): Add Swagger annotations Batch Testing Base (#32529),title provides conventional commit label,chore,10
+3277239540,Fix method ambiguity for Adjoint multiplication with Symbolics.Arr (fixes #575),title provides conventional commit label,fix,10
+3277329042,fix: add Windows .cmd parsing fallback for node.exe colocated environments,title provides conventional commit label,fix,10
+3277570981,Fix deprecation warnings causing CI failures with --depwarn=error,title provides conventional commit label,fix,10
+3277943226,fix: re-apply transient connection fix for gateway connections,title provides conventional commit label,fix,10
+3070114059,chore: Upgrade GitHub Actions to ubuntu-24.04,title provides conventional commit label,chore,10
+3070149818,"fix: Correct typo ""trough"" to ""through""",title provides conventional commit label,fix,10
+3070160046,chore: upgrade color-related dependencies,title provides conventional commit label,chore,10
+3079303421,feat: implement Query Node with RAG functionality and Vector Store integration,title provides conventional commit label,feat,10
+3170104958,fix: Fix INSERT INTO column list parsing and add comprehensive tests,title provides conventional commit label,fix,10
+3172647828,Fix serialization edge case in Prefect blocks,title provides conventional commit label,fix,10
+3172785852,feat: Implement Overlord Phase 1 - Claude Code sync service foundation,title provides conventional commit label,feat,10
+3152317896,feat: initial CLI setup,title provides conventional commit label,feat,10
+3154096278,feat: Basic Psionic package setup with hello world,title provides conventional commit label,feat,10
+3154339119,Fix source path in snapshots for non-child workspaces,title provides conventional commit label,fix,10
+3154699305,feat(stripe): Add Full Tier Support for Stripe Prices,title provides conventional commit label,feat,10
+3155322770,refactor: generalize Semihosting interface,title provides conventional commit label,refactor,10
+3156775134,test: Improve test coverage to reach 50%,title provides conventional commit label,test,10
+3158776739,feat: Implement exponential backoff retry mechanism for transient failures,title provides conventional commit label,feat,10
+3158802702,feat: Implement configurable retry policies,title provides conventional commit label,feat,10
+3159212731,fix(storybook): update Vercel build command to use monorepo structure,title provides conventional commit label,fix,10
+3206405036,Fix TypeError when opts is undefined in main.ts,title provides conventional commit label,fix,10
+3206510254,feat: implement immutable HashMap module,title provides conventional commit label,feat,10
+3206889625,feat: implement audio capture and export in audiocore,title provides conventional commit label,feat,10
+3206950313,feat: add enhanced audio capture and export functionality to audiocore,title provides conventional commit label,feat,10
+3207221136,fix: prevent RangeError in GitIgnoreParser for root paths,title provides conventional commit label,fix,10
+3128824166,docs: Add v0.0.3 release notes,title provides conventional commit label,docs,10
+3131363751,feat: configurable Docker Compose host ports via environment variables,title provides conventional commit label,feat,10
+3186370783,"Implement ""last client wins"" terminal width behavior","The PR introduces a new feature that changes the terminal width behavior to 'last client wins', removes the manual width selector, and adds automatic resizing triggers. These changes add new functionality and improve user experience, fitting the 'feat' category.",feat,9
+3127930821,feature: Add 'wv catalog' CLI commands for static catalog management,"The PR introduces new CLI commands for managing static catalog metadata, which is a new feature addition to the project.",feat,10
+3128534413,Implement Salsa-based incremental compilation,"The PR introduces a new feature by implementing Salsa-based incremental compilation infrastructure, enabling IDE-friendly incremental updates and laying the foundation for further compiler improvements.",feat,9
+3128559622,Implement comprehensive semantic analysis with modular architecture,"The PR introduces a new feature: comprehensive semantic analysis with modular architecture, new crates, and semantic validation capabilities, which is a clear addition of functionality rather than a fix or refactor.",feat,10
+3128646283,Redesign Python SDK to use native library with CLI fallback,"The PR introduces a new feature by redesigning the Python SDK to use a native library with a CLI fallback, adding new functionality and improving the developer experience without fixing a bug or just refactoring existing code.",feat,9
+3128713996,Add Python wheel distribution infrastructure (Phase 2 of #987),"The PR introduces a new feature: automated building and publishing of Python wheel distributions with bundled native libraries, which is a new functionality for the project.",feat,9
+3132009446,Investigation: Windows Layered Filesystem for Compiler Hosting,"The PR primarily adds a new investigation document and detailed documentation about Windows layered filesystem solutions without changing code functionality, indicating documentation-only changes.",docs,9
+3132093324,Consolidate MoE quantization parameters into FusedMoeQuantConfig,"The PR primarily restructures the code by consolidating multiple boolean parameters into a single configuration object, improving maintainability, type safety, and developer experience without adding new features or fixing bugs. This is a classic example of a refactor.",refactor,9
+3132378621,"Comprehensive maze generator enhancements: web interface, test suite, and improved triangular mazes","The PR introduces multiple new features including an interactive web interface for maze generation, a comprehensive test suite, and enhancements to the triangular maze implementation. These are all new functionalities and improvements, fitting the 'feat' category.",feat,10
+3132410695,Add comprehensive test suite for maze generator,"The PR adds a comprehensive test suite for the maze generator, including multiple tests and a test framework, which is clearly an addition of tests to ensure code quality and regression detection.",test,10
+3153985254,Add Python 3.13 to CI and metadata,"The changes update the CI configuration to include a new Python version and modify metadata in the project configuration file, which are related to build and integration processes rather than code features or fixes.",ci,9
+3154517662,Add lifetime to Selector in redaction iterator,"The title indicates the addition of a lifetime parameter to a Selector in the redaction iterator, which is a new feature or enhancement to the code functionality rather than a fix or other type of change.",feat,8
+3154662508,Add comprehensive API v1 with OAuth and API key authentication,"The PR introduces a comprehensive new API version with multiple new features including OAuth and API key authentication, new endpoints, rate limiting, and developer tools. This clearly adds new functionality rather than fixing bugs or making other changes.",feat,10
+3154734636,Draft: [Feat] AG-UI,"The title includes '[Feat]' indicating the addition of a new feature, and the body does not contradict this by describing fixes or other types of changes.",feat,9
+3154770102,Epic 1.5: Implement Suffix-Preserving Branch Name Truncation for Enhanced Developer UX,"The PR introduces a new feature that improves the user experience by implementing suffix-preserving branch name truncation, which is a new functionality enhancing developer productivity and workflow efficiency.",feat,10
+3158615630,Add MCP Middleware,"The PR introduces a new middleware system for MCP servers, adding new features and capabilities such as request/response control, integration points, and proxy server enhancements. This clearly represents a new feature addition rather than a fix, refactor, or other change type.",feat,10
+3158818689,Implement hash_to_curve for secp256k1,"The PR introduces a new feature: the hash-to-curve functionality for secp256k1, including new modules, trait methods, and public APIs, along with comprehensive tests. This is clearly an addition of new functionality rather than a fix, refactor, or other change type.",feat,9
+3206405282,Add comprehensive live demo with GitHub Pages deployment,"The PR introduces a new interactive demo site with multiple features and automated deployment, which is a new feature addition to the project.",feat,10
+3206405566,Implement comprehensive CI/CD pipeline with GitHub Actions,"The PR introduces a comprehensive CI/CD pipeline with GitHub Actions, adding new automated testing, quality assurance, and deployment features. This is a clear addition of new functionality to the project, fitting the 'feat' category.",feat,10
+3246897503,Bump version to v0.75.0 from rc1,"The PR updates version tags from a release candidate to an official release, which is a routine version bump and does not add new features or fix bugs. It is a maintenance task related to the build and deployment process, so it fits best under 'build'.",build,9
+3246680171,Add CLAUDE.md for development guidelines,"The commit adds a new documentation file with development guidelines, which is purely informational and does not change code behavior.",docs,9
+3246681942,Update Python version to 3.12 and uv lockfile,"The commit updates the Python version and modifies dependency management files, which affects the build environment and dependencies rather than adding features or fixing bugs.",build,9
+3246684833,Add `move_nancorrmatrix` and `move_nancovmatrix` functions,"The commit introduces new functions for computing rolling correlation and covariance matrices, which are new features added to the codebase. It also includes related tests and integration, indicating a feature addition rather than a fix or other change type.",feat,9
+3246764807,Add exponential moving matrix functions,"The PR introduces new functions and a new decorator, which are new features added to the codebase. It also adds tests, but the primary change is the addition of new functionality.",feat,9
+3246796582,Avoid special-casing diagonals in matrix calcs,"The change fixes the incorrect handling of diagonal elements in correlation matrix calculations, correcting the output to NaN when variance is zero, which is a bug fix. The tests were also updated to reflect this corrected behavior.",fix,9
+3263934382,Implement Two-way Claude Code Session Sync between Desktop and Mobile Apps,"The PR introduces a comprehensive new feature enabling two-way synchronization of Claude Code sessions between desktop and mobile apps, including real-time updates, session management, and backend integration. This clearly fits the 'feat' category as it adds new functionality.",feat,10
+3142181649,Replace CLI subprocess approach with Claude Code SDK,"The PR introduces a new SDK integration replacing a subprocess approach, which adds new functionality and improves performance without breaking existing interfaces. It is both a new feature and a performance improvement.",feat,9
+3145238894,Implement bottom-to-top message flow with auto-scroll,"The PR introduces a new feature that changes the message flow to bottom-to-top with auto-scroll functionality, enhancing the chat experience. This is clearly a feature addition rather than a fix, refactor, or other type of change.",feat,10
+3145249026,Implement bottom-to-top message flow layout,"The PR introduces a new feature that changes the message flow layout to a bottom-to-top style, enhancing the chat experience without fixing a bug or making other types of changes.",feat,10
+3146518192,Add Python 3.14 and Windows ARM64 support to CI,"The changes add new features to the CI configuration by including Python 3.14 and Windows ARM64 support, which extends testing capabilities and platform coverage.",ci,9
+3265118634,ファイルパス参照を相対パスに統一し、doc/からdocs/に統一,"The changes unify file path references and directory names to improve consistency and prevent path resolution issues, which is a refactoring of existing code without adding features or fixing bugs.",refactor,9
+3265640341,Add build staleness detection for debug CLI,"The PR introduces a new feature that adds build staleness detection to the debug CLI, including new modules, build system updates, detection logic, and documentation. This is a clear addition of functionality rather than a fix or other type of change.",feat,10
+3232028428,Win-build-improvements,"The PR introduces additional documentation and automation to improve the build process for Windows contributors, which enhances the build system and setup experience without adding new features or fixing bugs.",build,9
+3214555104,Add function signature breaking change detector,"The PR introduces a new script and GitHub Actions workflow to detect breaking changes in Python function signatures, which is a new feature to improve build and test infrastructure. It does not fix a bug or just refactor existing code, but adds new functionality to the build process.",feat,9
+3214782537,Major Architecture Refactor - Configuration System Overhaul with RSFC Integration,"The PR describes a major architectural refactor of the configuration system and template system integration, focusing on restructuring, modernization, and improved maintainability without introducing a new feature or fixing a bug. It is a large-scale refactor of existing systems.",refactor,10
+3216678691,IOS-4845 Update CLAUDE.md to prevent AI signatures in commits,"The changes involve updating documentation to add rules and examples, which is a documentation-only change without code modifications or feature additions.",docs,9
+3165023078,Convert to typescript,"The commit describes converting the codebase from JavaScript to TypeScript without adding new features or fixing bugs, which is a refactor to improve code quality and maintainability.",refactor,9
+3273580906,management-api-for-apache-cassandra-5.0: update to v0.1.106,"The update addresses CVE-related dependency issues and fixes a Maven dependency convergence error, which are bug fixes related to security and build dependencies.",fix,9
+3273752719,📚 Comprehensive Maestro Workflow Guide & Documentation,"The PR adds a large amount of new documentation and guides without changing code functionality, indicating documentation-only changes.",docs,10
+3274038425,"Alpha.78: Agent System Fix, Hooks Improvements & GitHub CLI Safety","The PR includes multiple bug fixes such as fixing the agent type system, hooks hanging issue, and GitHub CLI timeouts, which are all corrections to existing functionality rather than new features or other types of changes.",fix,9
+3220223180,[DEV] Triton-viz Visualizer 2.0,"The commit introduces multiple fixes to both frontend and backend parts of the visualization system, addressing bugs related to DOM initialization, import paths, data handling, and server improvements. It also removes a deprecated example and adds new example files. The primary focus is on fixing issues rather than adding new features or refactoring.",fix,9
+3222101465,♻️ Refactor database schema design workflow to use function agents and messages,"The title and body clearly indicate a refactor of the database schema design workflow, focusing on code restructuring without adding new features or fixing bugs. The summary also highlights refactoring and code simplification.",refactor,9
+2876006908,Improve list and collection materializers performance,"The PR introduces a significant new feature that optimizes list and collection materializers with batch compression, chunking, and improved metadata handling, enhancing performance and cloud storage support. This is a clear addition of new functionality rather than a bug fix or other change type.",feat,10
+2876533575,Clarify error message for missing plugin versions,"The commit clarifies error messages to provide more specific feedback to users, which is a correction of the existing behavior (bug fix) rather than a new feature or other change type.",fix,9
+2883083776,Add CLAUDE.md with SDK development guide,"The change adds a new documentation file (CLAUDE.md) with a development guide, which is purely documentation and does not affect code functionality.",docs,10
+2883609845,Upgrade to Go 1.24 and update dependencies,"The PR updates the Go version and dependencies, including changes to CI workflows and dependency management, which affect the build system and external dependencies.",build,9
+2888185420,No-switching-tab-on-slice,"The changes introduce a new flag and method to control the behavior of the slicing progress notification, effectively adding a new feature to the notification system.",feat,9
+2892364501,Add no_jobs_exit_timeout parameter to WorkerOptions,"The PR introduces a new feature that allows workers to automatically exit after being idle for a specified timeout, which is a new capability added to the WorkerOptions.",feat,9
+2892443818,example-demo: Add interactive token visualization with connecting lines,"The PR introduces a new interactive feature for token visualization, including hover effects and animations, which adds new functionality to the project.",feat,9
+3246635062,Quad-damage-enhancements,"The commit introduces major new features and enhancements to the BMAD framework, including new workflows, templates, agent capabilities, and documentation, all of which add new functionality rather than fixing bugs or making minor changes.",feat,10
+3165597086,Implement automated demo recording CI/CD pipeline (closes #68),"The PR introduces a new automated demo recording and comparison system integrated into the CI/CD pipeline, adding new functionality without fixing a bug or changing existing features. This aligns with the 'feat' type for new features.",feat,10
+3200679276,Implement lazy loading for RegistryInstance to improve latency in operations where the registry does not need to be read,"The PR introduces lazy loading to improve latency and reduce overhead, which is a performance optimization rather than a bug fix or new feature.",perf,9
+3200698874,🚀 Claude-Flow v2.0.0 Enterprise Release - Complete ruv-swarm Intelligence Integration,"The PR introduces a major new version (v2.0.0) with extensive new features including ruv-swarm intelligence integration, multiple new tools, neural network processing, and production-ready infrastructure. The description highlights new capabilities and enhancements rather than bug fixes or documentation only changes, indicating a new feature release.",feat,10
+3201567268,stm32/eth: Improve Ethernet driver with link detection and static IP support.,"The PR introduces new features such as automatic cable connect/disconnect detection, static IP configuration before interface activation, and improved DHCP timing, which are all enhancements to the Ethernet driver functionality.",feat,10
+3250080019,[fix][broker]Fix thread safety issues in BucketDelayedDeliveryTracker with StampedLock optimistic reads,"The PR fixes thread safety issues and race conditions in the BucketDelayedDeliveryTracker component, which are bugs affecting correctness under concurrency. The description explicitly states it fixes a bug (#23190) and improves thread safety without adding new features or changing behavior.",fix,10
+3250173556,Add exponential moving matrix functions to benchmarks,"The commit introduces new benchmark functions and updates the benchmark summary generation, which constitutes adding new features to the benchmark suite. The README update supports this feature addition by explaining the new handling.",feat,9
+3250235391,"[UI/UX] Implement Frontend Alias System: Rename ""Trading"" Skill → ""Crypto Trading""","The PR introduces a new frontend alias system to map database skill keys to user-friendly display names, which is a new feature enhancing the UI/UX without fixing a bug or refactoring existing code.",feat,9
+3250272016,Clarify axis parameter behavior in README,"The change involves adding a new section to the README to clarify the behavior of a parameter, which is purely documentation enhancement without code changes.",docs,10
+3250477735,Optimize nancorrmatrix and nancovmatrix for cache locality,"The changes improve the performance of the functions by optimizing cache locality and reducing cache misses, which is a clear performance enhancement rather than a bug fix or new feature.",perf,9
+3250746691,Add Hot Reload Feature with File Watching and Manual Refresh,"The PR introduces a new hot reload feature with file watching and a manual refresh button, adding new functionality to the project.",feat,10
+3112345209,Remove outdated note about Claude.ai MCP support,"The change involves removing an outdated note in the documentation about Claude.ai MCP support, which is purely a documentation update without any code changes or bug fixes.",docs,10
+3114327280,Rename ResourceReference to ResourceTemplateReference in draft spec,"The change is a renaming of an interface to better reflect its purpose, which is a refactor since it does not add a feature or fix a bug but improves code clarity.",refactor,9
+3115558470,Add actor ID tracking to trace events,"The title indicates the addition of a new feature, specifically actor ID tracking to trace events, which is a new capability rather than a fix or documentation change.",feat,9
+3245552368,sql/stats: prevent stats collection in read-only tenants,"The changes prevent statistics collection in read-only tenants, fixing an issue where stats were incorrectly collected. This is a bug fix addressing tenant-level read-only detection and preventing stats collection accordingly.",fix,9
+3245746342,Migrate code generator to Scala 3,"The PR involves migrating the codebase to Scala 3, updating dependencies, and fixing compilation warnings, which primarily constitutes a refactor and compatibility update rather than adding new features or fixing bugs.",refactor,9
+3245809034,"Add --python, --project, and --with-requirements options to CLI commands","The PR introduces new CLI options to add features for specifying Python versions and dependency management, enhancing the functionality of the CLI commands. This is a clear addition of new features rather than a fix, documentation update, or other change type.",feat,9
+3258945821,✨ feat(multi-tenant): add dynamic IAM roles per tenant for isolated resource access,"The PR introduces a new feature that adds dynamic IAM roles per tenant for isolated resource access, enhancing multi-tenant support and security boundaries. This clearly fits the 'feat' category as it adds new functionality.",feat,10
+3259580896,add support for nextjs instrumentation,"The PR introduces a new feature by adding support for Next.js instrumentation, enabling custom instrumentation and error monitoring in Cloudflare Pages applications. This is a clear addition of functionality rather than a fix, documentation, or other change.",feat,10
+3260720963,Complete Pharmacy Payment Acceptance Functionality - Closes #14095,"The PR introduces a complete payment acceptance functionality for pharmacy bills, including new UI/UX features, integration with PaymentService, and enhancements to refund processing. These changes add new capabilities and improve existing workflows, which aligns with the 'feat' type for new features.",feat,10
+3190199796,Add comment export feature on process termination,"The PR introduces a new feature that allows exporting comments on process termination, including new API endpoints and automatic comment sending, which clearly adds new functionality.",feat,9
+3088611576,Add dot notation access for workflow outputs,"The PR introduces a new feature that allows dot notation access for workflow outputs, improving readability and usability without fixing a bug or refactoring existing code.",feat,10
+3090065215,Add Claude CLI support with Strategy Pattern architecture (v0.6.0),"The PR introduces a new feature: support for Claude CLI with a Strategy Pattern architecture, enhancing performance and extensibility. This aligns with the 'feat' type for new features.",feat,10
+3094661465,Add systematic script to find ALL redundant SubClassOf axioms,"The PR introduces a new Perl script that systematically detects redundant SubClassOf axioms, which is a new capability or feature for the project. It does not fix a bug, improve performance, or change documentation only, but adds a new tool for redundancy detection.",feat,9
+3132739442,Consolidate algorithmic constants into comprehensive constants header,"The PR introduces a new header file consolidating various constants used throughout the codebase, which is a new feature that improves code organization and maintainability. It does not fix a bug or just refactor existing code without adding features, but rather adds a new centralized resource for constants.",feat,9
+3132983801,"migrate m_evn/m_odd to k{Even,Odd}Parity","The commit systematically replaces cryptic constants with descriptive ones and removes deprecated includes, improving code readability without adding features or fixing bugs. This is a refactor to improve code clarity and maintainability.",refactor,9
+3133058562, Add Enhanced BMAD System: Complete Enterprise AI Development Platform with 4-Phase Implementation,"The PR introduces a comprehensive new system with multiple phases and numerous new features, indicating a significant addition of functionality rather than a fix or documentation update.",feat,10
+3135266974,Add sklearn-compatible pipelines for Bayesian bandits with separated arguments,"The PR introduces new sklearn-compatible pipeline features for Bayesian bandits, adding new functionality without fixing bugs or refactoring existing code. It clearly adds new features and capabilities.",feat,10
+3136804156,Show thumbnail description as visible text,"The change introduces a new way to display the thumbnail description as visible text, aligning with design mocks, which is a new feature rather than a bug fix or other type of change.",feat,9
+3138027382,Add comprehensive workflow validation,"The PR introduces a new CLI command 'roast validate' and a multi-level validation system, which are new features enhancing the functionality of the project. It also includes schema updates and documentation, but the primary change is the addition of new features.",feat,10
+3138117853,Add input step type for user interaction,"The PR introduces a new feature: a new input step type for user interaction in workflows, supporting various input types and validations.",feat,10
+3138222448,"✨ feat: Implement @tevm/test-matchers storage, transaction, and block matchers","The PR introduces new test matchers as features to the @tevm/test-matchers package, adding new functionality rather than fixing bugs or making other types of changes.",feat,10
+3138264959,🐛 fix: Preserve original skipBalance and skipNonce flags during mining (#1612),"The PR fixes a bug where transaction flags skipBalance and skipNonce were incorrectly hardcoded during mining, causing incorrect transaction processing. The changes restore correct behavior by preserving original flags, which is a bug fix.",fix,10
+3138362649,✨ feat: implement MODEXP precompile (EIP-198) with EIP-2565 gas optimization,"The PR introduces a new feature by implementing the MODEXP precompile with EIP-198 compliance and EIP-2565 gas optimization, along with comprehensive tests and input validation. This clearly fits the 'feat' category for new features.",feat,10
+3138387778,✨ feat: implement SSTORE gas refunds and EIP-2200 storage gas costs,"The PR introduces a new feature implementing EIP-2200 compliant SSTORE gas refunds and storage gas cost calculations, along with new infrastructure and VM integration for gas refund tracking and original storage value caching. This is clearly a feature addition rather than a bug fix or other change type.",feat,10
+3141541564,Direct FFI Integration for idb_companion,"The PR introduces a new feature: a Direct FFI integration that provides a faster, simpler alternative to the existing gRPC-based architecture. It adds new code, documentation, and CI workflows to support this feature.",feat,9
+3204479528,🔧 ToolSandbox统一重构：修复process API缺失和代码重复问题,"The PR title and body describe fixing missing process API support, resolving dependency analysis issues, and removing code duplication, all of which are bug fixes and improvements to existing functionality rather than new features or refactors alone.",fix,9
+3204995137,🎯 实现统一项目工作目录：@project://.promptx/cwd,"The PR introduces a new feature that implements a unified project working directory with protocol path support and sandbox isolation, enhancing the architecture and developer experience without fixing a bug or just refactoring.",feat,10
+3205734508,Convert Build.Compose from string to struct with auto-detection,"The PR introduces a new feature by changing the Build.Compose field to a struct with auto-detection capabilities, enabling more flexible Docker Compose configuration. This is a clear addition of new functionality rather than a fix or refactor alone.",feat,9
+3205893657,Preserve snapshot names with INSTA_GLOB_FILTER,"The change introduces a new behavior to preserve snapshot names correctly when using INSTA_GLOB_FILTER, and it includes a test case to verify this behavior. The main purpose is to add a feature ensuring snapshot names retain their suffixes properly under filtering conditions.",feat,8
+3248210397,🤖 Add Comprehensive AI Agent Friendly CLI Support,"The PR introduces new features that enable non-interactive CLI support for AI agents, adds environment variables for automation, and generates automatic documentation for AI integration. These are clear feature additions rather than bug fixes or other types of changes.",feat,10
+3249619721,Add relative line number positioning for buttons (fixes #165),"The PR introduces a new feature that adds support for relative line number positioning for buttons, enhancing the existing functionality without fixing a bug or making other types of changes.",feat,10
+3250024089,Implement Modern Svelte 5 UI with Enhanced Settings and Integration Testing,"The PR introduces a comprehensive new frontend implementation with many new features including UI components, settings management, integration testing, analytics, and developer experience improvements. It is clearly a feature addition rather than a fix, docs, or other change type.",feat,10
+3176357483,[Backport stable/zed] ci: update CSI job to use ubuntu-latest (#2783),"The commit updates the CI job configuration to use a different Ubuntu version, which is a change to the CI configuration files and scripts.",ci,9
+3176421116,[Backport stable/2023.2] ci: update CSI job to use ubuntu-latest (#2783),"The change updates the CI job configuration to use a different Ubuntu version, which is a modification to the CI setup files and scripts.",ci,9
+3176427591,[Backport stable/2023.1] ci: update CSI job to use ubuntu-latest (#2783),"The change updates the CI job configuration to use a different Ubuntu version, which is a modification to the CI setup files and scripts.",ci,9
+3243533799,添加 Mermaid 圖表並整合中文翻譯,"The PR adds new Mermaid diagrams and integrates Chinese translations into documentation files, enhancing the documentation with new visual features and language support. This constitutes adding new features to the documentation rather than fixing bugs or refactoring existing code.",feat,9
+3244896143,Release v0.48.0,"The PR is primarily about updating the version number for a new release, which is a chore related to release management rather than a feature, fix, or other code change.",chore,9
+3245011006,Implement Context Engineering - Add ContextAgent for AI Context Generation,"The PR introduces a new feature called ContextAgent that adds context engineering capabilities, including context generation, codebase analysis, and prompt enhancement. The changes are additive and include new classes, examples, and tests, which aligns with the 'feat' type for new features.",feat,10
+3267110060,security: Fix critical vulnerabilities from PR #1219 review - Complete authentication hardening,"The PR primarily addresses critical security vulnerabilities by implementing comprehensive security hardening in the authentication system, which involves fixing bugs related to token exposure, logging, deprecated methods, and randomness. While it includes some refactoring and dependency updates, the main focus is on fixing security issues, so 'fix' is the most appropriate label.",fix,9
+3229176248,Add --flow-run-name option to deployment run CLI,"The PR introduces a new CLI option '--flow-run-name' that allows users to set custom flow run names, including templating support. This adds new functionality to the deployment run command, which qualifies as a new feature.",feat,9
+3229710961,Add model presets support infrastructure,"The changes introduce new infrastructure and methods to support model presets, which is a new feature addition. The fix mentioned is minor and related to the new feature, so the overall change is best classified as a feature addition.",feat,9
+3230307499,Add --quiet flag to bun pm pack command,"The PR introduces a new command-line flag '--quiet' to the 'bun pm pack' command, adding new functionality for scripting and automation workflows. This is a clear addition of a new feature rather than a fix or other change type.",feat,10
+3164250713,🚀 Major Enhancement: Workflow-Based Tool Architecture v5.5.0,"The PR introduces a major new feature: a workflow-based tool architecture with intelligent model selection, step-by-step workflows, and enhanced tool capabilities. It significantly extends functionality and adds new components, tests, and documentation, fitting the 'feat' category.",feat,10
+3274362044,Replace custom rate limiting logic,"The PR introduces a new feature by replacing the custom rate limiting logic with the Rack::Attack middleware, adding comprehensive throttling rules and maintaining the same rate limits. This is an enhancement that adds new functionality rather than just fixing a bug or refactoring existing code.",feat,9
+3274741142,🎯 Maestro Comprehensive Workflow Guide + Code Quality Integration,"The PR introduces a major new feature: a comprehensive Maestro workflow system with integrated code quality tooling and agent specialization, along with extensive documentation and tooling improvements. This is clearly a feature addition rather than a fix, refactor, or other change type.",feat,10
+3275029115,Complete JuliaSyntax 1.0 update with Julia 1.11 compatibility fixes,"The PR updates the codebase to be compatible with JuliaSyntax 1.0 and Julia 1.11, fixing compatibility issues and API changes. These are bug fixes to maintain functionality with new versions rather than adding new features or refactoring.",fix,9
+3275097396,Add get_all_tasks functionality to fetch tasks across all projects,"The PR introduces a new method `get_all_tasks()` to fetch tasks across all projects, which is a new feature enhancing the existing functionality.",feat,9
+3275149041,N-API Go html-to-markdown,"The PR introduces a new N-API Go module for HTML-to-Markdown conversion, adds a hybrid fallback system, integrates the build into Docker and CI, and includes new test suites. These are all new features enhancing the existing system without fixing a bug or just refactoring.",feat,9
+3275448809,Add DAE support for GPU kernels with mass matrices and initialization,"The PR introduces new features including comprehensive DAE support for GPU kernels, enhanced mass matrix handling, and a new initialization framework, all of which add new capabilities without fixing bugs or refactoring existing code.",feat,10
+3275455685,Add DAE support for GPU kernels with mass matrices and initialization,"The PR introduces new features including comprehensive DAE support for GPU kernels, enhanced mass matrix support, and a new initialization framework, all of which add new capabilities without fixing bugs or refactoring existing code.",feat,10
+3276605733,Add CPU backend testing support via KernelAbstractions,"The changes introduce new testing support for the CPU backend and add new CI workflows, which are new features enhancing the testing capabilities and infrastructure.",feat,9
+3253582273,"Rename ""Agent Leaderboard"" to ""Skill Leaderboard""","The PR changes the naming of a UI element from 'Agent Leaderboard' to 'Skill Leaderboard', which is a textual update and does not add new features or fix bugs. It is primarily a documentation or labeling change within the UI text.",docs,8
+3254261062,Improve workflow status handling and change detection,"The title indicates improvements in workflow status handling and change detection, which suggests enhancements or new capabilities rather than bug fixes or documentation changes. This aligns best with a feature addition.",feat,8
+3254647682,skip unnecessary alias-check in collect(::AbstractArray) from copyto\!,"The PR introduces an optimization by skipping an unnecessary alias check in the collect function, improving performance without changing functionality or fixing a bug.",perf,9
+3254649795,Add Base.active_manifest(),"The PR introduces a new function `Base.active_manifest()` which adds new functionality to the codebase, indicating a new feature addition.",feat,9
+3196885081,   1 ♻️ refactor(patterns): modularize execution-patterns.yml,"The PR title and body clearly indicate a restructuring and modularization of existing code without adding new features or fixing bugs. The focus is on improving code organization and maintainability, which aligns with a refactor type.",refactor,9
+3197436829,Upgrade to Biome v2,"The PR primarily upgrades the Biome linter to version 2, updates configuration files, and fixes linting errors and warnings. It includes bug fixes such as removing unused variables and fixing async functions without await. The changes are mostly about fixing issues introduced by the upgrade and improving code quality, which aligns with a bug fix category.",fix,9
+3197484474,[WIP] Refactor ForkId implementation to reduce technical debt,"The PR is focused on refactoring the ForkId implementation to reduce technical debt and simplify the code without adding new features or fixing bugs. It maintains existing functionality and tests pass without modification, indicating a refactor rather than a feature or fix.",refactor,9
+3166880168,♻️ refactor: remove redundant column.unique field from schema,"The commit removes a redundant field and refactors the codebase to use a single source of truth for uniqueness tracking without adding new features or fixing bugs. It reorganizes and cleans up the code structure, which is characteristic of a refactor.",refactor,9
+3168125372,Add automated release workflow for develop->main PR merges,"The PR introduces a new automated release workflow, which is a new feature added to the CI/CD process, thus it fits best under 'feat'.",feat,9
+3168142663,Release v3.31.0-rc2,"The PR is focused on release process improvements, build and deployment enhancements, and developer experience improvements, which are related to the build system and release automation rather than code features or fixes.",build,9
+3150240545,Add permission handling for tool usage with user dialog,"The PR introduces a new permission handling system with user dialogs and enhanced error detection, which adds new functionality without fixing a bug or refactoring existing code. This clearly qualifies as a new feature.",feat,10
+3150393125,Remove obsolete node labels for ws-daemon and registry-facade readiness,"The PR removes obsolete node labels and related code, which is a refactor since it cleans up code and configuration without adding new features or fixing bugs.",refactor,9
+3151360963,kubeflow-centraldashboard: fix GHSA-v6h2-p8h4-qcjw in vendored protobufjs deps,"The PR fixes a security vulnerability (CVE) in a vendored dependency by manually replacing the vulnerable package during the build process, which is a bug fix related to security.",fix,9
+3207905993,Step 1: Create base infrastructure for MCPProxyService extraction,"The PR introduces new infrastructure, TypeScript interfaces, utility functions, and documentation to support a new reusable service, which constitutes a new feature addition rather than a fix or refactor alone.",feat,9
+3207910026,Step 2: Implement TransportFactory class,"The PR introduces a new TransportFactory class with multiple new features such as centralized creation of transport types, header management, environment handling, lifecycle management, and error handling. These are all new capabilities added to the codebase, which classifies this as a feature addition.",feat,9
+3207914894,Step 3: Implement MCPProxyService class,"The PR introduces a new class MCPProxyService with multiple new features such as event-driven API, connection management, status tracking, and helper methods, which clearly adds new functionality to the codebase.",feat,9
+3207921071,Step 4: Refactor main server to use MCPProxyService,"The PR describes a significant restructuring of the main server code to use a centralized service for transport management, improving code maintainability and architecture without adding new features or fixing bugs. This aligns with a refactor type, as it neither adds new features nor fixes bugs but improves code structure and separation of concerns.",refactor,9
+3208559377,修复init命令循环依赖问题 - Issue #129,"The PR title and description clearly indicate that the changes fix a circular dependency bug in the init command, improving initialization order and avoiding early dependencies. This is a bug fix rather than a new feature or refactor.",fix,9
+3210837112,"Return ""follow_polyline_trajectory"" behavior in do_nothing behavior plugin","The change fixes the behavior plugin to correctly report its current action, which was previously incorrect and caused confusion. This is a bug fix improving the correctness of the system's behavior reporting.",fix,9
+3211505201,Display last 10 commit messages from pannous/wasp repository,"The PR introduces a new feature to retrieve and display the last 10 commit messages from the repository, which is a new functionality rather than a fix or documentation change.",feat,9
+3184725856,Match Node.js v24 behavior for `napi_get_value_string_utf8` handling of `NAPI_AUTO_LENGTH`,"The PR fixes a bug where the function `napi_get_value_string_utf8` incorrectly returned an empty string when `NAPI_AUTO_LENGTH` was passed, by aligning the behavior with Node.js v24. This is a clear bug fix.",fix,10
+3185547207,Add MCP Server Implementation,"The PR introduces a complete MCP server implementation and new MCP tools, which are new features added to the system. It does not fix a bug or make other types of changes.",feat,10
+3120774449,[Private Fork] feat: add AuditLogSubscriber to log integration config changes with sensitive data sanitization,"The PR introduces a new feature that adds audit logging for integration configuration changes with sensitive data sanitization, which is a clear enhancement to the existing functionality.",feat,10
+3124189482,📚 Improve documentation with best practices and --ignore guidance,"The PR focuses entirely on improving and expanding the documentation to help users understand best practices and usage guidance, without changing code functionality or adding features.",docs,10
+3124595999,Add Python stub file generation with documentation parsing,"The PR introduces a new feature that generates Python stub files with documentation parsing, enhancing IDE support with autocompletion and type hints. This clearly adds new functionality rather than fixing a bug or making other types of changes.",feat,10
+3105926969,[Not Live; disabled by default] Add Claude Explain feature for AI-powered assembly explanations,"The PR introduces a new feature called Claude Explain that provides AI-powered explanations of assembly code generation, including UI, backend integration, and documentation. This clearly fits the 'feat' category for a new feature addition.",feat,10
+3234650797,[WIP] Convert all packages to ESM-only distribution,"The PR introduces a major change by converting all packages to ESM-only distribution, removing CommonJS support, and simplifying the build process. This is a new feature that changes how the packages are distributed and used, aligning with modern JavaScript standards.",feat,9
+3235103212,Implement webhook test functionality with example payloads,"The PR introduces a new webhook test functionality feature, including new methods, API support, and comprehensive tests, which clearly adds new capabilities rather than fixing bugs or making other changes.",feat,10
+3223177403,Improve GitHub repository source_id extraction,The changes introduce a new utility function and refactor existing code to improve source_id extraction without adding new features or fixing bugs. This is a refactor as it improves code structure and consistency without changing functionality.,refactor,9
+3269032263,Add SIMD optimizations for 23.5% performance improvement,"The PR introduces new SIMD optimizations for tokenization, pattern matching, and ranking, resulting in significant performance improvements. This is a clear addition of new features aimed at enhancing performance, fitting the 'feat' category.",feat,9
+3271045504,Address @ajpallares review feedback for promotional offers in paywalls,"The PR addresses architectural and implementation feedback to improve the existing promotional offers feature without adding new features or fixing bugs. It refactors the codebase for better structure, dependency injection, module boundaries, and cleanup, making the implementation production-ready. Therefore, it is a refactor type change.",refactor,9
+3271050710,🚀 Alpha.74: SQLite & Async/Await Fixes,"The PR fixes bugs related to SQLite loading and async/await usage in hive-mind sessions, addressing errors and improving reliability without adding new features or refactoring code.",fix,10
+3271081741,🚀 Alpha.75: Windows Compatibility Overhaul (Based on PR #483 by @alexx-ftw),"The PR introduces comprehensive Windows compatibility improvements, including cross-platform script changes, path normalization, installation support, and dependency management, which are new features enhancing the software's functionality on Windows platforms.",feat,9
+2903936265,Add customizable stop sequences for OE evaluations,"The changes introduce a new feature allowing customizable stop sequences in OE evaluations, which is an enhancement rather than a bug fix or other type of change.",feat,9
+2905670458,Improve the applevel interface of OpArg and OpImpl,"The changes introduce new features such as support for a new operator, constructor overloading, and new properties, which are all additions to the existing functionality.",feat,9
+2908771855,Add definition method to OLS implementation,"The PR introduces new methods to the OLS implementation and adds new types, which constitutes adding new features. It also includes tests for these new methods, supporting the feature addition. The fix to the MRO issue is minor compared to the main feature addition and does not dominate the change.",feat,9
+2912546402,Add GitHub API caching to prevent rate limiting,"The PR introduces a new feature by adding GitHub API caching to prevent rate limiting, which is a new functionality enhancing the system.",feat,9
+2914277614,Fixes citrate synthase activity #29891,"The PR title and body describe merging and obsoleting terms related to citrate synthase activity, which is a correction or fix to the ontology or data representation. This aligns with fixing an issue rather than adding a new feature or documentation only.",fix,9
+2914376188,[公司職稱頁面] 展開經驗 View Log,"The PR adds a new feature to the company title page, specifically the experience tracking (View Log) functionality, including preview and detailed views, which fits the 'feat' category.",feat,9
+2918329879,testing DO NOT MERGE,"The change involves adding a shoutout in the extension description, which is a documentation update rather than a code feature or fix.",docs,9
+2920999550,Add memory limit option to CLI,"The PR introduces a new feature by adding a memory limit option to the CLI, which was not previously available, enhancing the functionality of the command-line interface.",feat,9
+2921044123,Update synonyms of Wolffian adnexal tumor (FATWO) to EXACT with references fixes #8791,"The PR updates synonym classification and adds references, which is a correction of existing data rather than a new feature or refactor. It fixes the synonym relationship to be exact, addressing an issue.",fix,9
+2922672896,Implement OmniMCP for Claude computer control,"The PR introduces a new system called OmniMCP that enables Claude to control the computer, adding new features such as UI interaction methods, a new protocol server, and a CLI runner. This clearly represents a new feature addition rather than a fix, documentation, or other change types.",feat,9
+3238330931,🐝 Fix Queen Identity Persistence (Issue #311),"The PR fixes a bug where the Queen identity was not persisting correctly, breaking continuous coordination. The changes implement a solution to maintain persistent Queen identity and prevent the issue from recurring, which is a bug fix.",fix,10
+3238444749,🐝 Fix Swarm Executor ReferenceError: basicSwarmNew is not defined (Issue #342),"The PR title and detailed description clearly indicate that this change fixes a critical ReferenceError bug in the swarm executor. The fix includes correcting parameter mismatches, adding input validation, improving error handling, and ensuring the system no longer crashes. This is a classic bug fix scenario.",fix,10
+3238483606,🔧 Fix Memory Backend Configuration Bug (Issue #347),"The PR fixes a critical bug causing system initialization failure by properly configuring the MemoryManager with required parameters, eliminating crashes and improving reliability. This is clearly a bug fix.",fix,10
+3238491477,🔧 Fix Memory Backend Configuration Bug (Issue #347),"The PR fixes a critical bug causing system initialization failure by properly configuring the MemoryManager with required parameters, eliminating crashes and improving reliability. This is clearly a bug fix.",fix,10
+3238626702,🔧 Fix CLI Argument Parsing Bug (Issue #344),"The PR title and detailed description clearly indicate that the changes fix a bug related to CLI argument parsing, correcting incorrect flag handling and ensuring user inputs are honored. The extensive explanation and test results confirm this is a bug fix rather than a new feature or other change type.",fix,10
+3241545126,Add nancorrmatrix and nancovmatrix functions,"The PR introduces new functions and a new decorator, which are new features added to the codebase. It also includes tests, but the primary change is the addition of new functionality.",feat,9
+3241611660,Update typos pre-commit hook configuration,"The changes involve updating the configuration of a pre-commit hook, which is related to the build or development process rather than code functionality or documentation. This fits best under 'build' as it affects the build system or external dependencies.",build,9
+3241861541,Add comprehensive OAuth2 server documentation,"The PR adds comprehensive documentation for the OAuth2 server component without changing code functionality, which fits the 'docs' category.",docs,10
+3226145369,Add Linux support for SwiftAnthropic,"The PR introduces a new feature by adding Linux support through a cross-platform networking layer and conditional compilation, along with CI/CD updates and documentation enhancements. This is a clear addition of functionality rather than a fix or refactor.",feat,9
+3226434542,OpenAI-compatible APIs like DeepSeek support,"The PR introduces new support for OpenAI-compatible APIs like DeepSeek, adding new features such as multi-provider support, configurable model mapping, and transparent proxying without breaking existing functionality. This clearly adds new capabilities rather than fixing bugs or making other types of changes.",feat,10
+2922676503,OmniMCP: Direct Host Control Bridge Between OmniParser and Claude MCP,"The PR introduces a new feature called OmniMCP that bridges OmniParser and Claude MCP for direct host control, including new deployment, operational modes, and integration capabilities. This is a clear addition of new functionality rather than a fix, refactor, or other change type.",feat,10
+2925282771,Add CLAUDE.md for Claude Code assistance with Mondo Ontology,"The PR adds a new documentation file (CLAUDE.md) with instructions and guidelines, which is a documentation-only change without code modifications or features.",docs,9
+2959025892,[fix][cli] Enhance split-bundle command to accept single hash values,"The changes fix the CLI command to correctly handle single hash values and improve error messages, which addresses a bug or limitation in the existing functionality.",fix,9
+2964008111,Add two mini-tutorials,"The PR primarily adds new tutorial documentation and improves existing documentation related to scheduled pipelines, enhancing user guidance and resources. There is no indication of bug fixes, code changes, or tests added. Therefore, the change is best classified as documentation only changes.",docs,10
+2964743634,Add TTY environment check to `cargo insta review`,"The change introduces a new environment check feature to the `cargo insta review` command, indicating an addition of functionality rather than a fix or other type of change.",feat,8
+2973533797,Add support for named snapshots with redactions and debug expr,"The title indicates the addition of new functionality, specifically support for named snapshots with redactions and debug expressions, which qualifies as a new feature.",feat,9
+2974498229,Add pre-commit hook for Rust code formatting,"The PR introduces a pre-commit hook to enforce Rust code formatting, which is a build-related tool enhancement rather than a feature or bug fix.",build,8
+2974598623,Rename process_snapshots function to review_snapshots for clarity,"The change is a renaming of a function to improve clarity, which is a refactor since it neither fixes a bug nor adds a feature.",refactor,9
+2980205609,tests: Update typos pre-commit hook to v1.31.1,"The title indicates an update to a pre-commit hook related to tests, which is a change to testing infrastructure or tooling rather than production code or features. This fits best under 'test' as it involves testing-related tooling updates.",test,9
+2985351959,Add triggering pipelines mini-tutorial (#3495),"The PR consists entirely of updates and improvements to documentation, including tutorials and user guides, without introducing new features or fixing bugs in the codebase.",docs,10
+2986072834,Add customizable PostgreSQL connection pool settings,"The PR introduces a new feature allowing customizable PostgreSQL connection pool settings, including configuration options and documentation updates, which fits the 'feat' category.",feat,9
+2986431376,Add Kubernetes schedule documentation and fix heading hierarchy (#3530),"The changes described are focused on adding and improving documentation related to Kubernetes scheduling, including fixing heading hierarchy and adding tutorial links. There is no indication of code changes, bug fixes, or new features, so the appropriate label is 'docs'.",docs,10
+2997643146,New API based on `jaxls.LeastSquaresProblem` and `jaxls.Cost`,"The PR introduces a new API with renamed classes and new components, improving the clarity and structure of the API without fixing a bug or just refactoring existing code. This is a new feature addition to the library.",feat,9
+3007785025,UN-2584 [FIX] Corrected HTTP status codes for workflow execution status API,"The PR fixes incorrect HTTP status codes returned by the API, correcting the behavior to match the documented API contract and resolving integration issues. This is a clear bug fix.",fix,10
+3037457814,Add Language Server to code analysis category,"The PR introduces a new tool (Language Server) to the code analysis category, which is a new feature addition to the project.",feat,9
+3047699666,✅ Add tests for organization_members RLS policies from PR #1598,"The PR adds new test cases to cover the organization_members RLS policies and the is_current_user_org_member function, ensuring the fixes from a previous PR are properly tested and do not regress. This is clearly an addition of tests, not a feature or bug fix itself.",test,9
+3057825906,MM-64155: Fix searchbox clear button to reset search type,"The PR fixes a bug where the search box clear button did not reset the search type correctly, causing an incorrect badge to appear. The description and release note clearly indicate a bug fix.",fix,9
+3256692785,Add Pgettag primitive with atomic loads for variant_only=false,"The PR introduces a new primitive 'Pgettag' with atomic load capabilities and exposes it as a new feature to users, enhancing the existing functionality. This aligns with the 'feat' type for adding new features.",feat,9
+3257102140,Primitives for raw OCaml block access,"The PR introduces new primitives for raw OCaml block access, which are new features enhancing the language's capabilities for faster field access. This aligns with the 'feat' type for new features.",feat,9
+3257241051,Tomohisa/issue704,"The PR introduces new capabilities such as running individual test phases, providing custom task IDs, and color-coded output, which are new features enhancing the existing functionality.",feat,9
+3257330452,"geo/geomfn: implement ST_GeometricMedian({geometry,float8,int4,bool})","The PR introduces a new SQL function ST_GeometricMedian with multiple overloads and implements the Weiszfeld algorithm for geometric median calculation, which is a new feature addition to the codebase.",feat,10
+3257359947,"Add pagination, filtering, and compact response modes","The PR introduces new features such as client-controlled pagination, filtering capabilities, and a compact response mode, all of which add new functionality without fixing bugs or just refactoring existing code.",feat,10
+3258566467,Add event validation to `test_webhook` function,"The PR introduces validation logic as a new feature to the existing `test_webhook` function, enhancing its behavior by adding event validation and raising exceptions for invalid events. It also adds new test cases to verify this feature. This is a clear addition of functionality rather than a bug fix or other change type.",feat,9
+3194442530,Add DeciLM/Nemotron-NAS architecture support,"The PR introduces native support for a new architecture (DeciLM/Nemotron-NAS) including new features like dummy layers, FFN fusion, and variable attention configurations, which are new capabilities added to the system.",feat,9
+3194483657,📝(test): Add test principles documentation and Claude test commands,The PR adds new documentation and command files related to testing principles and workflows without changing any code functionality. This is a documentation-only change to improve understanding and guidance on testing practices.,docs,10
+3069923749,Add cargo-insta version fields to bug report template,"The change adds new fields to the bug report template, which is a documentation update to improve issue reporting. It does not add features, fix bugs, or change code behavior.",docs,9
+3069942339,Allow deprecated tempfile method for MSRV,"The change allows usage of a deprecated tempfile method to maintain compatibility with the Minimum Supported Rust Version (MSRV), which is a feature adjustment rather than a bug fix or other change type.",feat,8
+3069944091,Update bug report template fields,"The change updates the bug report template fields, which is a documentation-related change rather than code or feature modification.",docs,9
+3078006902,migrate: Update CLI to urfave/cli v3,"The commit introduces a migration to a new major version of a CLI library, which changes function signatures and usage patterns, effectively adding new features and improvements to the CLI interface.",feat,8
+3171863473,Add ProseMirror documentation and fix message styling,"The PR introduces a large amount of new documentation for ProseMirror and also includes fixes to message styling bugs. Since it both adds documentation and fixes bugs, the primary purpose appears to be fixing message styling issues, which is a bug fix. The documentation addition is substantial but does not add new features or change code behavior. Therefore, the best fitting label is 'fix'.",fix,9
+3171901980,Replace chat textarea with ProseMirror editor,"The PR introduces a new feature by replacing the chat textarea with a ProseMirror editor, enabling future rich text editing capabilities and improving the chat input functionality.",feat,9
+3173165718,Remove unused escape gem dependency,"The change removes an unused dependency from the project, which is a maintenance task and does not add features or fix bugs.",chore,9
+3173233374,Added `mcp` CLI command,"The PR introduces new CLI commands and features related to MCP server management, which clearly adds new functionality to the project.",feat,10
+3173971926,Update ArtifactRepository constructors to accept tracking_uri parameter,"The PR introduces a new optional parameter `tracking_uri` to the constructors of ArtifactRepository subclasses, enabling better integration between artifact storage and tracking services. This is an addition of new functionality without fixing a bug or refactoring existing code, so it is classified as a feature.",feat,9
+3151798896,Add ZN-Grunts proto-plugin ,"The PR introduces a new distributed LLM orchestration system called ZN-Grunts with multiple new features, infrastructure, and platform support, which clearly qualifies as a new feature addition.",feat,10
+3151873955,Add promotional offers to paywalls,"The PR introduces a new feature that adds comprehensive promotional offer support to paywalls, including a new cache system, purchase flow integration, and UI component updates. This clearly aligns with the 'feat' type as it adds new functionality.",feat,10
+3128896513,Fix GitHub API rate limiting in chess workflow by replacing API calls with local file storage,title provides conventional commit label,fix,10
+3128948216,"Fix broken chess game workflow: update Ruby/gems, add missing checkout, remove deprecated API calls",title provides conventional commit label,fix,10
+3128970557,Fix Ruby syntax error in chess workflow caused by trailing blank lines,title provides conventional commit label,fix,10
+3129063731,Fix Ruby syntax error in GitHub Actions chess workflow,title provides conventional commit label,fix,10
+3129102032,Fix MCP Authentication - Auto-evict invalid clients and trigger re-registration,title provides conventional commit label,fix,10
+3129105671,Fix VoiceAccessUserControl header file with proper WinRT/C++/CX syntax,title provides conventional commit label,fix,10
+3251416645,Fix TransportOptionsValidator to accept valid Kestrel binding addresses,title provides conventional commit label,fix,10
+3251419718,"Fix `contractevent` macro with `data_format=""vec""` for Vec fields",title provides conventional commit label,fix,10
+3206203957,Fix GraphFlowManager termination to prevent _StopAgent from polluting conversation context,title provides conventional commit label,fix,10
+3206230540,Fix download counter to use correct asset for repositories with multiple release assets,title provides conventional commit label,fix,10
+3206231176,Fix HACS becomes unresponsive after multiple sidepanel name changes,title provides conventional commit label,fix,10
+3124605364,Fix MTP runner to report error when given .dll for non-Core workloads,title provides conventional commit label,fix,10
+3124676438,Fix notebook references in data pipelines failing after deployment,title provides conventional commit label,fix,10
+3124709717,chore: update CODEOWNERS with new team members,title provides conventional commit label,chore,10
+3124811802,feat: import copilot instructions and automatic reviewers assignment from celestia-app,title provides conventional commit label,feat,10
+3268164028,"Fix extension generic method lookup filtering causing ""not enough arguments"" errors",title provides conventional commit label,fix,10
+3109359968,Fix attr cache memory leak by implementing expired entry cleanup,title provides conventional commit label,fix,10
+3109511414,Fix z-index issue on half-image slides - background images now stay behind content,title provides conventional commit label,fix,10
+3109523791,Fix nested directory creation issue in hash metadata storage,title provides conventional commit label,fix,10
+3109525942,"Fix AZCOPY_AUTO_LOGIN_TYPE=""MSI"" authentication failure when URLs contain port numbers",title provides conventional commit label,fix,10
+3150841632,Fix GitCommitInfo task to handle grafted repository state gracefully,title provides conventional commit label,fix,10
+3151237217,Fix NullReferenceException in NpmLockfileDetectorBase when dependencies object is missing,title provides conventional commit label,fix,10
+3151249906,feat(cli): Make `vlt help <cmd>` work the same as `vlt <cmd> --help`,title provides conventional commit label,feat,10
+3151403816,Fix Outerloop Tests workflow failing on forks,title provides conventional commit label,fix,10
+3151439757,Fix git.log to properly handle errors when not in a git repository,title provides conventional commit label,fix,10
+3215964049,Fix FormJS variable persistence issue when submitting via Enter key,title provides conventional commit label,fix,10
+3215992008,feat: add backward compatibility for VS Code paste API,title provides conventional commit label,feat,10
+3216189960,Fix ErrorProne 2.39.0 TooManyParameters warning in UploadService,title provides conventional commit label,fix,10
+3216197213,Fix text color readability issue on Edge mobile browser,title provides conventional commit label,fix,10
+3216208267,Fix repeat-until scoping bug in VMify compiler,title provides conventional commit label,fix,10
+3234061012,Fix Scala 2 compilation hang with HNil shape mismatches for case classes >22 fields,title provides conventional commit label,fix,10
+3234115546,Fix Resource Group option sharing static state between commands,title provides conventional commit label,fix,10
+3234121023,Revert sysinfo dependency from 0.36.0 to 0.35.2,title provides conventional commit label,revert,10
+3234138504,Fix live tests by using correct tool names with underscores instead of dashes,title provides conventional commit label,fix,10
+3234200031,Fix kernel restart when renaming notebook files,title provides conventional commit label,fix,10
+3190486831,Fix UI reflow issues at 400% zoom level for WCAG compliance,title provides conventional commit label,fix,10
+3190514750,"Fix CAF naming values showing ""(known after apply)"" during terraform plan",title provides conventional commit label,fix,10
+3190608451,Fix conditional kernel restart in InstallPackagesTool to avoid unnecessary restarts,title provides conventional commit label,fix,10
+3081726892,"Fix spelling, grammar, and formatting issues in documentation",title provides conventional commit label,fix,10
+3081803622,Fix duplicate tracks with same path in database,title provides conventional commit label,fix,10
+3081816409,Fix: Custom tags defined as floats being treated as strings in smart playlists,title provides conventional commit label,fix,10
+3082038772,Fix CVE-2024-8612 in qemu package on 3.0-dev branch,title provides conventional commit label,fix,10
+3174426695,Fix Gantt performance by removing useMouse from every column,title provides conventional commit label,fix,10
+3174443041,Fix Gantt sidebar not rendering on initial page load,title provides conventional commit label,fix,10
+3174512200,Refactor publishing state model and CLI protocol to aggregate CompletionState at all levels,title provides conventional commit label,refactor,10
+3174567386,Fix GitHub Copilot MCP server field to use 'servers' instead of 'mcpServers',title provides conventional commit label,fix,10
+3175169812,chore: Update Windows 2025 version to use specific build number 26100,title provides conventional commit label,chore,10
+3166618227,Fix debug expression hover for TypeScript non-null assertions (!),title provides conventional commit label,fix,10
+3166697799,fix: resolve golangci-lint issues with unchecked error returns and embedded field access,title provides conventional commit label,fix,10
+3166840879,Refactor Proxy.close() method to use try-finally pattern for guaranteed server cleanup,title provides conventional commit label,refactor,10
+3166878308,Fix incorrect usage of pytest.warns in test_langchain_model_export.py,title provides conventional commit label,fix,10
+3167148478,Fix SelectedDate property not updating when dates are selected in Calendar control,title provides conventional commit label,fix,10
+3167223032,fix: get rid of url.parse in network code,title provides conventional commit label,fix,10
+3167629205,Fix broken links by adding Azure Static Web Apps redirects,title provides conventional commit label,fix,10
+3125682958,Fix code-tunnel.exe completion trimming on Windows,title provides conventional commit label,fix,10
+3125695545,feat: add main branch to GitHub workflow triggers,title provides conventional commit label,feat,10
+3125703292,Fix Glide destroyed activity crash in PlatformInterop image loading methods,title provides conventional commit label,fix,10
+3125706805,chore: delete memstats routine and definitions,title provides conventional commit label,chore,10
+3125708547,chore: rename BlockProp reactor to Recovery,title provides conventional commit label,chore,10
+3125710825,feat: update parts channel capacity from 1000 to 2500,title provides conventional commit label,feat,10
+3125744468,fix: update Go version requirement to 1.24 to resolve govuln CI failures,title provides conventional commit label,fix,10
+3125771920,Fix broken links in PerfView user guide documentation,title provides conventional commit label,fix,10
+3125790678,Fix off-by-one error in P/Invoke buffer handling for Windows volume enumeration,title provides conventional commit label,fix,10
+3125817776,Fix StorageSharedKeyCredential parameter names in storage-queue README,title provides conventional commit label,fix,10
+3125954430,Fix stale workflow to never close issues and ignore dependabot PRs,title provides conventional commit label,fix,10
+3125996513,docs: Update README with Docker image generation documentation,title provides conventional commit label,docs,10
+3226779561,Fix weather records TODO message and add watering calendar to zone page,title provides conventional commit label,fix,10
+3226805360,Fix finishReason length should still process fences,title provides conventional commit label,fix,10
+3210834321,chore(shed): update trace-finding in lotus-shed miner fees & fees-inspect with a better top-down filter,title provides conventional commit label,chore,10
+3210960716,Fix SfExpander arrow color not restoring after cancelled touch gesture,title provides conventional commit label,fix,10
+3210965204,Fix hover styles for tabs and buttons after v2.0.5 regression,title provides conventional commit label,fix,10
+3211069935,Refactor AzureApiFactory into shared Octoshift project,title provides conventional commit label,refactor,10
+3211097293,Refactor AzureApiFactory to use shared helper method,title provides conventional commit label,refactor,10
+3211101810,Refactor AzureApiFactory to use shared helper for common logic,title provides conventional commit label,refactor,10
+3179735644,Fix Yarn monorepo support by removing invalid -W flag,title provides conventional commit label,fix,10
+3179741870,Fix typos and improve documentation accuracy across LittleJS,title provides conventional commit label,fix,10
+3179766264,Fix Random Ray Solver Bug: Detect Multiple Point Sources in Same Subdivided Source Region,title provides conventional commit label,fix,10
+3179782246,Fix grid_options layout data lost when editing card,title provides conventional commit label,fix,10
+3179789341,Fix AADConditionalAccessPolicy ExcludeExternalTenantsMembershipKind empty string handling,title provides conventional commit label,fix,10
+3179789638,"Fix flaky test: ""script is not removed while another instance exists""",title provides conventional commit label,fix,10
+3179828414,Fix text selection when renaming clips and boards,title provides conventional commit label,fix,10
+3179981594,Fix Clippy uninlined_format_args lint errors and expand CI coverage for all Rust components,title provides conventional commit label,fix,10
+3259701196,Fix `just clean` command for Windows PowerShell compatibility and missing directory handling,title provides conventional commit label,fix,10
+3259732080,Fix duplicate .cctor methods in IL generation by merging method bodies,title provides conventional commit label,fix,10
+3259798274,fix(kit): escape key propagation in preview dialog to prevent closing parent dialog,title provides conventional commit label,fix,10
+3078160044,Fix thread safety in Application.ThreadContext.FromId,title provides conventional commit label,fix,10
+3078169246,Fix Azure activity log message when deploying to slot,title provides conventional commit label,fix,10
+3078187008,Fix pylint issues in azure-eventhub-checkpointstoreblob,title provides conventional commit label,fix,10
+3078195603,Fix XmlForClause and JsonForClause FirstTokenIndex in subqueries,title provides conventional commit label,fix,10
+3078217849,Fix Box Style Consistency Between Resources and Live Hunts Cards,title provides conventional commit label,fix,10
+3078356584,Fix LISA to properly honor the provided working_path parameter,title provides conventional commit label,fix,10
+3078366765,Fix Safari SecurityError when Block All Cookies is enabled,title provides conventional commit label,fix,10
+3078382638,Fix SourceMaps not including the original *.ts files,title provides conventional commit label,fix,10
+3078383974,Fix sourcemap load errors from @nevware21 dependencies,title provides conventional commit label,fix,10
+3078424351,Fix mismatched Microsoft.Graph modules by pinning module versions,title provides conventional commit label,fix,10
+3078444454,feat: Implement Ko-fi website integration,title provides conventional commit label,feat,10
+3078460436,Fix TypeError when handling nested array attributes declared as non-required but not provided,title provides conventional commit label,fix,10
+3078469289,Fix type inconsistency between Model.create and Model.get for custom types,title provides conventional commit label,fix,10
+3231432076,docs: Update documentation examples to use `trimBefore` and `trimAfter`,title provides conventional commit label,docs,10
+3231460257,Refactor 'any' types to strict type definitions across codebase,title provides conventional commit label,refactor,10
+3231548516,Fix DNS cache race condition and double-free causing production crashes,title provides conventional commit label,fix,10
+3121005401,Docs: Add Inkeep site indexing setup instructions,title provides conventional commit label,docs,10
+3121041195,Fix Docker image public visibility in GitHub Container Registry,title provides conventional commit label,fix,10
+3121316751,docs: update mocha to 1.24.1 golang,title provides conventional commit label,docs,10
+3121381331,Fix translation consistency issues - update dates and verify content alignment,title provides conventional commit label,fix,10
+3265192098,Fix #pragma warning not working with multifile modules,title provides conventional commit label,fix,10
+3195573803,fix(cache): Implement per-record caching to fix partial failure issue,title provides conventional commit label,fix,10
+3195788503,feat(config:line): 支持自定义线路参数,title provides conventional commit label,feat,10
+3195817470,Fix CLI command option descriptions and standardize Apphost terminology,title provides conventional commit label,fix,10
+3195826190,Fix FlexAttention int64 indexing for large tensors,title provides conventional commit label,fix,10
+3106326653,Fix `deny_unpinned_actions` policy to work for composite actions,title provides conventional commit label,fix,10
+3121897365,Refactor HttpRequestCustomRecipe getVisitor() method for improved readability and maintainability,title provides conventional commit label,refactor,10
+3121953999,Fix setAll method transformation in HttpHeadersCustomRecipe to properly convert Map to HttpHeaders,title provides conventional commit label,fix,10
+3122330329,Fix Vercel deployment errors caused by yarn version conflicts,title provides conventional commit label,fix,10
+3122389974,Fix golangci-lint config,title provides conventional commit label,fix,10
+3151985497,Refactor Node.js package installers from lifecycle hooks to ExecutableResource,title provides conventional commit label,refactor,10
+3152145544,Refactor: Use %v to log errors instead of %s + error.Error(),title provides conventional commit label,refactor,10
+3152174737,Refactor: editing → isKeyboardOpen,title provides conventional commit label,refactor,10
+3152293928,"Fix $ handling: treat as string in scripts, command in interactive mode",title provides conventional commit label,fix,10
+3209660072,feat(talis): add configurable workers flag for concurrent operations,title provides conventional commit label,feat,10
+3209661206,Fix diagnostic code 69010 typo to 6910,title provides conventional commit label,fix,10
+3209727238,Fix unhandled exception when double-clicking in scroll bar area with no selected nodes,title provides conventional commit label,fix,10
+3209796838,Fix APIView C# parser to handle complex NuGet packages with multiple target frameworks,title provides conventional commit label,fix,10
+3209832047,"docs: replace all instances of ""nova"" with ""multiplexer""",title provides conventional commit label,docs,10
+3209849017,Fix all staticcheck errors in gocryptfs codebase,title provides conventional commit label,fix,10
+3256405696,Fix AZ affinity routing tests: improve backend tolerance and debugging,title provides conventional commit label,fix,10
+3256451757,Fix QuickLook crash after waking from sleep by adding power management event handling,title provides conventional commit label,fix,10
+3256472611,Fix EmojiCompat crash when Entry bound to float with StringFormat,title provides conventional commit label,fix,10
+3256473912,"Fix CI socket exhaustion errors by expanding port range, increasing timeouts, and improving cleanup",title provides conventional commit label,fix,10
+3241319003,style: MkDocs site redesign with GitHub Docs-inspired dark theme,title provides conventional commit label,style,10
+3241357147,Fix crash when problemMatcher has empty pattern array,title provides conventional commit label,fix,10
+3247390113,chore(demo): migrate to tuiDocAPI,title provides conventional commit label,chore,10
+3247403285,FIX: Contribution process for internal/external contributors & documentation,title provides conventional commit label,fix,10
+3247407263,FEAT: Implement inclusive contribution process for external and internal contributors,title provides conventional commit label,feat,10
+3088730956,Fix ASP.NET integration test crashes by adding proper Elsa background task shutdown,title provides conventional commit label,fix,10
+3088733583,Fix: Strip special characters like ™ and ® in metadata searches,title provides conventional commit label,fix,10
+3088752590,Fix EventBase child activity not executing OnEventReceived method,title provides conventional commit label,fix,10
+3235041361,Fix NewGroupPlaceholder CSS overlap and enable grouping for all item types,title provides conventional commit label,fix,10
+3235055290,Fix browser compatibility for @xmcl/system by adding exports field,title provides conventional commit label,fix,10
+3235070810,Fix issue with dynamic runtime binding in Microsoft.CSharp test,title provides conventional commit label,fix,10
+3235219394,Fix production debug code and comprehensive issue verification,title provides conventional commit label,fix,10
+3235249371,Fix grammatical errors and improve wording in replace-node documentation,title provides conventional commit label,fix,10
+3189765757,Fix TraceEvent.props to respect ProcessorArchitecture when RuntimeIdentifier isn't specified,title provides conventional commit label,fix,10
+3189775547,Fix MCP prompt flow cancellation when optional arguments are left empty,title provides conventional commit label,fix,10
+3189779251,Fix ON UPDATE CASCADE syntax highlighting in SQL.plist,title provides conventional commit label,fix,10
+3189935263,Fix broken msal-angular redirect documentation link,title provides conventional commit label,fix,10
+3262668155,Fix memory leak in BackgroundCommandSenderHostedService by using CancellationToken.None,title provides conventional commit label,fix,10
+3192545670,Fix(cache): loading bug and improve cache status logging,title provides conventional commit label,fix,10
+3273467014,feat: change NWC connector title to include NWC abbreviation,title provides conventional commit label,feat,10
+3273496214,chore: Replace all occurrences of Rollkit to ev-node / Evolve (excluding README.md),title provides conventional commit label,chore,10
+3084258051,Fix AppInsights breaking Angular SSR in Cloudflare Worker,title provides conventional commit label,fix,10
+3084294411,Fix CLI browserName override issue when not specified,title provides conventional commit label,fix,10
+3084490358,Fix Console Encoding for Proper Display of Non-ASCII Characters,title provides conventional commit label,fix,10
+3084492871,Fix collisions in indirect sqlproj dependencies for separate databases,title provides conventional commit label,fix,10
+3228875697,Fix missing JSInvokable PublishEvent method exception when using IDialogService with extended options,title provides conventional commit label,fix,10
+3276753975,feat: Add configuration parameter support to SmartStart provisioning entries,title provides conventional commit label,feat,10
+3276756515,Fix throttled firmware update progress events jumping back and forth,title provides conventional commit label,fix,10
+3276762075,Fix parameter-property with default value emitting `T | undefined` instead of `T`,title provides conventional commit label,fix,10
+3276763092,Fix generateImage returning undefined and enable Azure OpenAI image editing with proper URL construction,title provides conventional commit label,fix,10
+3091643325,Fix missing `album` object in `get_track_info()` response,title provides conventional commit label,fix,10
+3091825094,Fix 'utf-8' codec error with surrogate pairs in Unicode strings,title provides conventional commit label,fix,10
+3091868582,feat: Convert build logic into shadcn registry,title provides conventional commit label,feat,10
+3074526770,Fix CancellationTokenRegistration leak in AsyncOperation.TrySetCanceled,title provides conventional commit label,fix,10
+3074570058,Fix documentation inconsistency in sub-models example,title provides conventional commit label,fix,10
+3074577799,Fix Japanese Kanji character handling in constraints,title provides conventional commit label,fix,10
+3074595642,docs: Fix broken link in CONTRIBUTING.md,title provides conventional commit label,docs,10
+3074605898,Fix RegisterHasNoReset warning incorrectly triggering for loop iteration variables,title provides conventional commit label,fix,10
+3074609325,"Fix DataTable.Compute throws exception on ""true NOT= false""",title provides conventional commit label,fix,10
+3074614660,Fix PictGenerate to clear previous results before generating new ones,title provides conventional commit label,fix,10
+3074618957,Fix IndexOutOfRangeException in RegexInterpreter.Backtrack method,title provides conventional commit label,fix,10
+3074647104,Fix HTTP/2 pings not working with zero connection lifetime,title provides conventional commit label,fix,10
+3074688614,Fix Angular SSR in Cloudflare Worker by handling dynamic proto incompatibility,title provides conventional commit label,fix,10
+3074690649,Fix cache not resetting when include files are modified,title provides conventional commit label,fix,10
+3074756019,Fix timestamp format errors when using BY NAME SELECT syntax,title provides conventional commit label,fix,10
+3074778952,"Fix ""Maximum call stack size exceeded"" error in view.js",title provides conventional commit label,fix,10
+3074784299,Fix dead links and alphabetically sort items in README.md,title provides conventional commit label,fix,10
+3222206015,Fix Dev Containers null pointer error in workspaceCommands.ts,title provides conventional commit label,fix,10
+3222212117,Fix Jest 30 compatibility issues - update fakeTimers config and resolve duplicate mocks,title provides conventional commit label,fix,10
+3222212955,feat: add tabs to messageboard widget with incremental loading,title provides conventional commit label,feat,10
+3222238867,Fix multiple comment decorations when word wrap is enabled,title provides conventional commit label,fix,10
+3184337854,fix: Windows VSS backup validation to support all selection methods and case-insensitive EC2 detection,title provides conventional commit label,fix,10
+3184430691,Fix inverted email validation logic in McpElicitationService and add token expiration utility,title provides conventional commit label,fix,10
+3184439526,Fix pydoc doctest failures by updating expected output format for string operations,title provides conventional commit label,fix,10
+3184463362,Fix RealParent garbage collection warning to reduce noise in production apps,title provides conventional commit label,fix,10
+3252917201,Fix build errors related to trimming attributes in .NET 10,title provides conventional commit label,fix,10
+3252984390,Fix CI failure: Gradle unable to provision Java 11 toolchain (Adoptium),title provides conventional commit label,fix,10
+3252991718,Fix flaky AzqrCommandTests by introducing IDateTimeProvider abstraction,title provides conventional commit label,fix,10
+3253039135,Fix MCP OAuth client_secret_basic authentication support,title provides conventional commit label,fix,10
+3097915420,Fix C++ Rule of 5 violations in msquic.hpp to prevent memory corruption,title provides conventional commit label,fix,10
+3118450017,Fix dependabot auto-merge workflow for GitHub merge queue compatibility,title provides conventional commit label,fix,10
+3118533289,Fix cell reveal when followCellExecution enabled and notebook tab not active,title provides conventional commit label,fix,10
+3118636567,Fix mypy error in images_aoai_quickstart.py: handle Optional[list[Image]] properly,title provides conventional commit label,fix,10
+3118761541,"Fix translation inconsistencies: Add missing ""What's New"" sections and 10-WhatsNew folders",title provides conventional commit label,fix,10
+3118970869,Fix Azure OpenAI assembly reference error by adding required packages and correcting documentation,title provides conventional commit label,fix,10
+3119010150,Fix CNS IP demand overcounting by filtering terminal Pods in IPAMv2,title provides conventional commit label,fix,10
+3119079877,Fix token group renaming to work consistently across all sets,title provides conventional commit label,fix,10
+3127722655,Fix Save Changes button on GitHub Pages MemoriaCatalog.xml editor,title provides conventional commit label,fix,10
+3127778805,docs: Note for root `README.md`,title provides conventional commit label,docs,10
+3127781810,"chore: Update branch from base, fix merge conflict",title provides conventional commit label,chore,10
+3127782032,"Fix UTF-8 encoding, XML formatting, PR UI, and add button cooldown to Memoria Catalog Editor",title provides conventional commit label,fix,10
+3127795243,Fix false success reporting in ado2gh integrate-boards when GitHub PAT permissions are incorrect,title provides conventional commit label,fix,10
+3127805671,"Fix UTF-8 encoding, form handling, and add draft state to Memoria Catalog Editor",title provides conventional commit label,fix,10
+3127828881,Fix whitespace formatting errors and CI coverage file handling,title provides conventional commit label,fix,10
+3127970135,Fix VSIX build workflows by switching from dotnet restore to msbuild restore,title provides conventional commit label,fix,10
+3226556821,feat(provider:edgeone): 支持腾讯EdgeOne Add Tencent Cloud EdgeOne DNS provider support,title provides conventional commit label,feat,10
+3226644014,Fix backslash handling in comments to prevent line continuation issues,title provides conventional commit label,fix,10
+3112076357,Fix date32/date64 Arrow types displaying as Long values in playground,title provides conventional commit label,fix,10
+3112095151,Fix thread safety issue in FindAppHostProjectFilesAsync by switching to ConcurrentBag,title provides conventional commit label,fix,10
+3112867557,Fix TypeError in number increment/decrement services when entity.value is string,title provides conventional commit label,fix,10
+3136698219,Fix GitHub build failures for Windows and Linux packages,title provides conventional commit label,fix,10
+3136800169,Fix enum parameter type resolution from arbitrary assemblies in UsingTask,title provides conventional commit label,fix,10
+3136803201,Fix ProjectInSolution.AbsolutePath containing backslashes on Unix systems,title provides conventional commit label,fix,10
+3111840737,Fix localStorage namespacing for reverse proxy deployments,title provides conventional commit label,fix,10
+3276827651,Fix: Mark node as asleep when compat query times out,title provides conventional commit label,fix,10
+3276951581,fix(kit): combo box stringify function not being called after update,title provides conventional commit label,fix,10
+3276971958,Fix accessibility: Add proper AutomationProperties.Name to Sound page buttons,title provides conventional commit label,fix,10
+3276973636,Fix Counter Control accessibility: Enable Narrator announcements for value changes,title provides conventional commit label,fix,10
+3276981020,Fix duplicate key issue by resetting EF Core migrations and adding unique constraint documentation,title provides conventional commit label,fix,10
+3241852461,docs: Add comprehensive buildkit drivers documentation with Kubernetes focus,title provides conventional commit label,docs,10
+3241984328,Fix Bicep compilation errors for Azure Container Apps scope resolution,title provides conventional commit label,fix,10
+3139504281,fix: set default proxy_app config value to align with app/v4-cosmos-sdk (backport #1915 to main),title provides conventional commit label,fix,10
+3139945869,docs: editorial on 3.6,title provides conventional commit label,docs,10
+3140219724,Fix TypeScript module resolution for direct filter imports,title provides conventional commit label,fix,10
+3148932692,Fix inferred parameters missing from dataset when explicitly added,title provides conventional commit label,fix,10
+3149038837,Fix duplicate and unfitting slugs in resourceDefinition.json,title provides conventional commit label,fix,10
+3149241573,Fix HSL format to use whole numbers for percentages instead of decimal places,title provides conventional commit label,fix,10
+3149554338,Fix hex color detection in strings by adding lookbehind patterns,title provides conventional commit label,fix,10
+3149689202,Fix broken FieldMaps link in TfsWorkItemMigrationProcessor documentation,title provides conventional commit label,fix,10
+3157499461,Fix DuplicateTypeNameAnalyzer to skip nested types,title provides conventional commit label,fix,10
+3157523410,Fix update-cgmanifest.ps1 script to produce deterministic output,title provides conventional commit label,fix,10
+3224819412,Fix Python 3 compatibility and core library warnings,title provides conventional commit label,fix,10
+3204148213,Fix frontend duplicate tag creation in Label Selector,title provides conventional commit label,fix,10
+3204148886,Fix HBOX_LOG_LEVEL environment variable being ignored due to backwards logic,title provides conventional commit label,fix,10
+3098089485,Fix OAuth token endpoint hanging by ensuring proper database connection handling,title provides conventional commit label,fix,10
+3098406026,Fix histogram escape key handling in VS Code extension,title provides conventional commit label,fix,10
+3079097121,Fix false positives in distributed tracing decorator pylint rule,title provides conventional commit label,fix,10
+3079097208,Fix tokens becoming read-only after recovering local changes,title provides conventional commit label,fix,10
+3079241115,Fix DrawLineAa anti-aliasing inconsistency at certain angles,title provides conventional commit label,fix,10
+3079569069,Fix NullReferenceException in GenerateExtensionMethods with 'allows ref struct',title provides conventional commit label,fix,10
+3079572036,Fix emoji font embedding in PDF generation,title provides conventional commit label,fix,10
+3079628682,Fix TestContext not preserving AsyncLocal values correctly,title provides conventional commit label,fix,10
+3079684446,Fix Gitea workspace service being exposed externally,title provides conventional commit label,fix,10
+3079799346,Fix deserialization of inherited F# classes,title provides conventional commit label,fix,10
+3079799506,Fix System.Text.Json flags enum serialization with JsonStringEnumConverter,title provides conventional commit label,fix,10
+3177625216,Fix signing configuration: Remove 25 obsolete file references from ESRPSigning_core.json,title provides conventional commit label,fix,10
+3177662558,Fix session view panel reuse to prevent duplicate panels for the same session,title provides conventional commit label,fix,10
+3177762716,"Fix Copilot instructions to emphasize mandatory lint, test, and format steps",title provides conventional commit label,fix,10
+3177942149,Fix DevcontainerSettingsWriter directory creation in clean codespace environments,title provides conventional commit label,fix,10
+3123156365,Fix outdated documentation references to 'GC Heap Alloc Stacks',title provides conventional commit label,fix,10
+3123367684,Fix dashboard resource filtering for custom OpenTelemetry service names,title provides conventional commit label,fix,10
+3230596302,Fix IIFE optimization removing const/let declarations causing undefined variable errors,title provides conventional commit label,fix,10
+3230596562,Fix SWC minifier un-escaping unicode characters,title provides conventional commit label,fix,10
+3194210207,Fix MeterProvider destructor warning when Shutdown() called manually,title provides conventional commit label,fix,10
+3194217765,Fix SpotBugs 6.2.1 compatibility by configuring tasks to ignore missing class failures,title provides conventional commit label,fix,10
+3194236413,Fix flaky test in micrometer-1.0 instrumentation by increasing timeout,title provides conventional commit label,fix,10
+3194239581,Fix terminal suggest warning when selectionMode is set to 'never',title provides conventional commit label,fix,10
+3194269192,Fix ErrorProne 2.38.0 build failures by updating checker configuration,title provides conventional commit label,fix,10
+3194387938,Fix flaky TestProvider test by resolving temp directory race condition and non-deterministic error handling,title provides conventional commit label,fix,10
+3194389044,fix: handle race condition in TestBlockPoolMaliciousNode flake,title provides conventional commit label,fix,10
+3105060307,Fix literal types interfering with primitive types in Surface caching,title provides conventional commit label,fix,10
+3105161001,Fix deprecated rlang functions in R package causing warnings,title provides conventional commit label,fix,10
+3105180054,Fix build-rdoc.sh path in autoformat.yml workflow,title provides conventional commit label,fix,10
+3105210443,Fix flaky superscript test by using synchronous updates in test environments,title provides conventional commit label,fix,10
+3105220570,Fix autoformat workflow to include untracked files in patch,title provides conventional commit label,fix,10
+3105266350,Fix WSDL self-referential type parsing to prevent infinite recursion,title provides conventional commit label,fix,10
+3105314423,Fix autoformat workflow to commit untracked files created during formatting,title provides conventional commit label,fix,10
+3105321269,Fix WSDL self-loop stub test to return XML response and pass validation,title provides conventional commit label,fix,10
+3239660273,Fix IInteractionService API limitations in CLI by making unsupported interactions fail instead of silently returning,title provides conventional commit label,fix,10
+3239748118,Fix Python test timeouts in full matrix CI workflow,title provides conventional commit label,fix,10
+3237976887,Fix weather records retrieval error in websockets.py where sorting fails with mixed datetime types,title provides conventional commit label,fix,10
+3238006552,Fix DatePicker month picker disabledDate bug in documentation demo,title provides conventional commit label,fix,10
+3152658418,Fix incorrect exception type in DataTableReader.GetOrdinal documentation,title provides conventional commit label,fix,10
+3152775367,Fix ResourceAsset constructor to support RespectRequiredConstructorParametersDefault,title provides conventional commit label,fix,10
+3152880462,Fix PropertyGetter to handle value types correctly in SupplyParameterFromPersistentComponentStateValueProvider,title provides conventional commit label,fix,10
+3153054303,Fix autocomplete at beginning of list/hash by supporting '(' character,title provides conventional commit label,fix,10
+3153076666,docs: document the contribution flow for core,title provides conventional commit label,docs,10
+3153101093,Fix Blazor root component state persistence across render modes,title provides conventional commit label,fix,10
+3101807746,Fix prettier config resolution when no prettierFilePath is provided,title provides conventional commit label,fix,10
+3102011997,Fix TraceEvent NuGet package to exclude Windows-specific native DLLs for non-Windows platforms,title provides conventional commit label,fix,10
+3102021003,Fix modern Sass API importer to handle alias resolution correctly,title provides conventional commit label,fix,10
+3168695693,Fix clippy unused_unit warnings in host_bindgen macro for void return functions,title provides conventional commit label,fix,10
+3168732332,ci: add ability to easily queue release pr gates via comment triggers,title provides conventional commit label,ci,10
+3168803023,Fix code scanning alert: Add explicit uint64_t cast in gather_bytes function,title provides conventional commit label,fix,10
+3168803564,Fix printf format specifier type mismatch in ubpf_loader.c,title provides conventional commit label,fix,10
+3168844975,Fix pylint warnings in azure-communication-chat generated code,title provides conventional commit label,fix,10
+3168889284,Fix PDB indentation mismatch in list output context,title provides conventional commit label,fix,10
+3169043242,Fix pylint warnings in azure-communication-chat package,title provides conventional commit label,fix,10
+3169069018,Fix relative file dependency path resolution in subdirectories,title provides conventional commit label,fix,10
+3169100701,Fix extended tsconfig paths,title provides conventional commit label,fix,10
+3169187477,feat: Stabilize logger.enabled by removing spec_unstable_logs_enabled feature flag,title provides conventional commit label,feat,10
+3169212086,"fix: fix zap.Any logging issues causing ""unsupported value type"" errors",title provides conventional commit label,fix,10
+3169215423,Fix trailing comma support in import type attributes,title provides conventional commit label,fix,10
+3169383258,Fix silent wget failures in DownloadFile causing corrupted .bak file downloads,title provides conventional commit label,fix,10
+3098890364,Fix CodeRabbit feedback on Query Node implementation,title provides conventional commit label,fix,10
+3098938231,Fix CodeRabbit feedback: enhance error handling and input validation in Query Node implementation,title provides conventional commit label,fix,10
+3099133512,Fix global functions not working across math blocks,title provides conventional commit label,fix,10
+3099240126,Fix package.json import warnings by switching to default export syntax,title provides conventional commit label,fix,10
+3161596711,Fix ModelFactory analyzer to exclude client types and easily instantiable types,title provides conventional commit label,fix,10
+3162019565,Fix azurerm_dev_center_gallery regex to match Azure naming requirements,title provides conventional commit label,fix,10
+3162500791,"Fix misleading ""No open pages available"" message from browser_close",title provides conventional commit label,fix,10
+3243112963,feat: add configurable ignore files for restore target directory validation,title provides conventional commit label,feat,10
+3243134540,Fix custom jobs persisting in final repositories when removed from templates,title provides conventional commit label,fix,10
+3086406590,Fix Docker image pull error related to buffer-equal-constant-time package,title provides conventional commit label,fix,10
+3095413885,"Fix duplicate usage sections by renaming emitter usage section to ""Emitter usage""",title provides conventional commit label,fix,10
+3095439815,Fix Dev Container / Codespaces support for non-default usernames,title provides conventional commit label,fix,10
+3242980094,chore: Add comprehensive tests for inline-style-parser achieving 86.16% coverage,title provides conventional commit label,chore,10
+3186688860,Fix case-sensitive string comparisons for team and project names,title provides conventional commit label,fix,10
+3254436323,Fix broken stacks warning for universal traces,title provides conventional commit label,fix,10
+3254443036,Fix jitted code symbols in universal traces to show assembly names instead of memfd:doublemapper,title provides conventional commit label,fix,10
+3254588245,fix: misplaced standalone comments in chains,title provides conventional commit label,fix,10
+3217968239,Fix SV_VertexID and SV_InstanceID crash with -preserve-params in SPIR-V emitter,title provides conventional commit label,fix,10
+3108299845,Fix GetSystemTimeAsFileTime test timing tolerance for platform compatibility,title provides conventional commit label,fix,10
+3108559852,"Fix regression: restore ""identifier"" field in Azure gallery image API call",title provides conventional commit label,fix,10
+3146309919,Fix padding_idx=None handling in aten_embedding_bag_padding_idx,title provides conventional commit label,fix,10
+3146310178,Fix ast.Expression deprecation warning by using proper constructor,title provides conventional commit label,fix,10
+3146329354,Fix outer scope initializer type checking by using IsOuterScopeValue,title provides conventional commit label,fix,10
+3126133113,Fix compilation errors in ServerPortReuseTests.cs by resolving namespace conflict,title provides conventional commit label,fix,10
+3126374524,Fix pool search functionality to handle Pool ID patterns consistently,title provides conventional commit label,fix,10
+3126427425,Fix resolution comment length bug when migrating Secret Scanning alerts,title provides conventional commit label,fix,10
+3126448988,Fix panic in SkipTriviaEx when printing type predicates with declaration maps enabled,title provides conventional commit label,fix,10
+3132383081,feat: update dependabot config for main branch and add go/docker support,title provides conventional commit label,feat,10
+3132647605,"feat(refactor): Abstract balance functions, add unit tests, `useAccountBalances` hook",title provides conventional commit label,feat,10
+3101113699,Fix flaky workload identity test by using atomic counter for temp file names,title provides conventional commit label,fix,10
+3101175239,Fix GetArtists REST API endpoint returning empty artist data,title provides conventional commit label,fix,10
+3101243147,Fix broken Build badge by adding GitHub Actions workflow,title provides conventional commit label,fix,10
+3101407864,Fix SelectPanel mobile footer visibility when keyboard appears,title provides conventional commit label,fix,10
+3101423103,ci: set commit-message in refresh-manifests workflow,title provides conventional commit label,ci,10
+3272660631,chore: 在 dev 分支推送时构建 Docker 镜像但不标记为 latest,title provides conventional commit label,chore,10
+3159661875,Refactor REPL to eliminate temporary file usage,title provides conventional commit label,refactor,10
+3159989352,Fix ObjectToInferredTypesConverter stack overflow when serializing plain object,title provides conventional commit label,fix,10
+3160349414,Fix ClientWebSocket hang with HttpVersionPolicy.RequestVersionOrHigher by correcting operator precedence,title provides conventional commit label,fix,10
+3160353937,fix: upgrade golangci-lint to v2,title provides conventional commit label,fix,10
+3160397616,fix: return proper JSON-RPC errors for missing blocks in /header and /block endpoints,title provides conventional commit label,fix,10
+3094543776,Fix Visual Studio version in ASPIRE003 warning documentation,title provides conventional commit label,fix,10
+3094661486,Fix subscription pagination to display all available subscriptions,title provides conventional commit label,fix,10
+3094743282,Fix pip module invocation in sdk_package.py,title provides conventional commit label,fix,10
+3115256699,Fix invalid OpenAPI schema generation for models extending Array,title provides conventional commit label,fix,10
+3115430697,Fix 18 misspellings of 'instatiate' to 'instantiate',title provides conventional commit label,fix,10
+3115680597,Fix libonnxruntime4j_jni.so 16KB page size compatibility on Android ARM64,title provides conventional commit label,fix,10
+3115906713,Fix npm package installation to check appropriate files based on command,title provides conventional commit label,fix,10
+3116057368,docs: Update TEMA docs to clarify warmup periods,title provides conventional commit label,docs,10
+3244901827,"refactor(http.proxy): add ""SYSTEM"" and fix ""DIRECT"" proxy, implement proxy list support with automatic fallback",title provides conventional commit label,refactor,10
+3143891800,Fix XA4211 warning message to use TargetPlatformVersion for .NET 6+,title provides conventional commit label,fix,10
+3143944164,Fix GitOps automation firing on empty Copilot PRs for .swr file validation,title provides conventional commit label,fix,10
+3144072008,Fix JsonValue serialization InvalidCastException in Orleans JsonCodec,title provides conventional commit label,fix,10
+3144121380,Fix DuplicateTypeNameValidation false positives for same assembly types,title provides conventional commit label,fix,10
+3193671126,Fix token cache parent mismatch panic in signature help,title provides conventional commit label,fix,10
+3193746300,Fix Debug.Assert with side effects in ExtensionInteractionService,title provides conventional commit label,fix,10
+3193831732,Fix panic when hovering over functions with JSDoc links,title provides conventional commit label,fix,10
+3193857615,Fix OpenTelemetry dependency issue in semantic-kernel agents,title provides conventional commit label,fix,10
+3193870086,Fix O(n²) performance issue in CLI datatype declaration processing,title provides conventional commit label,fix,10
+3223325863,Fix MCP OAuth URL normalization - handle trailing slash and hostname case differences,title provides conventional commit label,fix,10
+3223375972,Fix label color picker error when current color is not in predefined palette,title provides conventional commit label,fix,10
+3223518588,Fix --showConfig to work when no input files are found,title provides conventional commit label,fix,10
+3223526987,Fix alert events ordering to show latest events first,title provides conventional commit label,fix,10
+3246250179,Fix benchmark.php CSV path validation for non-existent files,title provides conventional commit label,fix,10
+3246277050,Fix Tab key changing filters twice on first window open,title provides conventional commit label,fix,10
+3202851217,feat: Add Slack strategy for posting messages to Slack channels,title provides conventional commit label,feat,10
+3202896248,fix(tests): increase timeout values to prevent CI timeouts,title provides conventional commit label,fix,10
+3202910942,"Fix minimap character stretching when ""Render Characters"" is enabled",title provides conventional commit label,fix,10
+3202996466,Fix Groovy and Kotlin gradle scripts with correct architecture detection methods,title provides conventional commit label,fix,10
+3147052092,Fix qualified table name parsing in trigger bodies,title provides conventional commit label,fix,10
+3147110986,Fix XSS vulnerability in login.jsp by escaping JavaScript strings,title provides conventional commit label,fix,10
+3147158866,Fix getAbsoluteSrc to properly handle absolute URLs when window exists,title provides conventional commit label,fix,10
+3147161232,Fix getAbsoluteSrc to handle blob: URLs as absolute and fix trailing slash test,title provides conventional commit label,fix,10
+3158937469,Fix CameraMotionBlur first frame disappearing issue,title provides conventional commit label,fix,10
+3158983348,fix: docker container cleanup to prevent accumulation and system slowdown,title provides conventional commit label,fix,10
+3159002770,Fix FileStream.FlushAsync documentation to correctly describe its behavior,title provides conventional commit label,fix,10
+3159023948,Fix incorrect ThreeLetterWindowsLanguageName example for zh-Hant (CHT -> ZHH),title provides conventional commit label,fix,10
+3159046284,Fix typo in TextFieldParser.ReadFields documentation,title provides conventional commit label,fix,10
+3159158873,Fix Utf8JsonWriter WriteXValue methods documentation to remove array-specific language,title provides conventional commit label,fix,10
+3159174564,"Fix Task.WhenAny documentation typo: change ""result value is true"" to ""This is true""",title provides conventional commit label,fix,10
+3159178442,Fix pylint C4766 and C4762 errors in azure-ai-ml for version 3.3.6,title provides conventional commit label,fix,10
+3159199237,Fix INumber.Sign documentation for zero return value,title provides conventional commit label,fix,10
+3226265972,feat: Complete catalog utility implementation with enhanced parameter types and automation support,title provides conventional commit label,feat,10
+3226278223,Fix SecurityException in recent documents feature (#405),title provides conventional commit label,fix,10
+3226278349,Fix back button navigation for documents opened within app,title provides conventional commit label,fix,10
+3188256323,fix: make mempool type configurable in template,title provides conventional commit label,fix,10
+3188511182,Fix iOS Entry password text loss when toggling IsPassword while focused,title provides conventional commit label,fix,10
+3146843488,Fix CUDA GatherND batch dimension validation regression,title provides conventional commit label,fix,10
+3089454659,"Fix RecentlyAddedByModTime to apply to tracks, not just albums",title provides conventional commit label,fix,10
+3236171682,Fix scaffolder step IDs: recommend snake_case over kebab-case to prevent NaN outputs,title provides conventional commit label,fix,10
+3236233705,Fix alt attribute updates in rich-text widget linkImages method,title provides conventional commit label,fix,10
+3236282004,"Fix YYYY date format rendering as ""Jan YYYY"" in HTML output",title provides conventional commit label,fix,10
+3236306681,Fix 3D attention transpose bug in reference implementation,title provides conventional commit label,fix,10
+3236322926,Fix double points issue in LineDaysChart at month boundaries,title provides conventional commit label,fix,10
+3236323150,feat(addon-charts): Add custom range inputs to TuiLineDaysChart,title provides conventional commit label,feat,10
+3236326340,feat: Add copy API configuration functionality to component documentation pages,title provides conventional commit label,feat,10
+3184126692,"Fix Lab 7 Docker feedback: Update timing, add DevOps connection guidance, and enhance pipeline authorization notes",title provides conventional commit label,fix,10
+3184170032,Fix Lab 12 Dynamic Configuration feedback issues - improve user experience,title provides conventional commit label,fix,10
+3184170028,Fix Lab 11 Key Vault feedback issues for improved clarity,title provides conventional commit label,fix,10
+3184170027,Fix Lab 9 Release Gates UI instructions and add Microsoft.Web provider troubleshooting,title provides conventional commit label,fix,10
+3184170024,"Fix Lab 14 feedback issues: timing, step numbering, and missing instructions",title provides conventional commit label,fix,10
+3077128060,Fix Lidarr Artist Search Failure Due to Invalid Artist ID,title provides conventional commit label,fix,10
+3077228850,Fix Copilot chatbot rate limit error handling,title provides conventional commit label,fix,10
+3077259471,Fix bounty payout page to efficiently handle GitHub API pagination,title provides conventional commit label,fix,10
+3077305000,Fix auto-assign issues to Copilot action by correcting username case,title provides conventional commit label,fix,10
+3077485814,Fix TfsSharedQueryProcessor to preserve area selection with @CurrentIteration macro,title provides conventional commit label,fix,10
+3077534093,Fix inconsistency between Consolidate() and Validate() methods in KafkaProducerSettings,title provides conventional commit label,fix,10
+3266954891,Fix fs.createReadStream throwing ERR_OUT_OF_RANGE with start parameter,title provides conventional commit label,fix,10
+3199841597,Fix critical authentication vulnerability in HTTP Event Collector,title provides conventional commit label,fix,10
+3199868370,Fix ENOENT error when installing packages with missing bin files,title provides conventional commit label,fix,10
+3199870832,Fix: Make `vlt init` preserve existing `package.json` properties,title provides conventional commit label,fix,10
+3199871502,Fix path normalization in :path() selector to match patterns consistently,title provides conventional commit label,fix,10
+3199874174,Fix next page calculation bug in GitEa provider pagination,title provides conventional commit label,fix,10
+3199875911,Refactor EngineTests to use DataDescription::getCellRef instead of helper methods,title provides conventional commit label,refactor,10
+3199892406,Fix overstatement about nullable reference types runtime protection,title provides conventional commit label,fix,10
+3199904124,Fix static field documentation to clarify storage behavior for generic types,title provides conventional commit label,fix,10
+3165207176,Fix description generator excluding single-letter abbreviations at start,title provides conventional commit label,fix,10
+3165221521,ci: introduce single branch name variable,title provides conventional commit label,ci,10
+3275792848,Fix grammar errors and verb consistency in GraphQL mutation descriptions,title provides conventional commit label,fix,10
+3227415432,Fix memory usage by calling comemo::evict(10) after compilation,title provides conventional commit label,fix,10
+3255305692,FIX: Avoid PR format check workflow label permission failures on fork PRs,title provides conventional commit label,fix,10
+3255318562,Fix: Enable self-referencing foreign keys in Schema Designer,title provides conventional commit label,fix,10
+3255333300,docs: Add missing javadoc comments to resolve warnings,title provides conventional commit label,docs,10
+3255394640,Fix streaming function call display in 04-semantic-kernel-tool.ipynb,title provides conventional commit label,fix,10
+3255397374,Fix agent introduction order in 03-semantic-kernel notebook,title provides conventional commit label,fix,10
+3208124851,Fix GDPR comment event names and JSON syntax in copilotRemoteAgentTool.ts,title provides conventional commit label,fix,10
+3208130662,Fix flaky `AbortWithCTRLPlusC_TestHost_Succeeded` test by ensuring console output is flushed during cancellation,title provides conventional commit label,fix,10
+3208154686,Fix compilation error: Change hProcess from ?HANDLE to HANDLE to resolve type mismatch,title provides conventional commit label,fix,10
+3208198363,Fix comment thread scrollbar overlaying text content,title provides conventional commit label,fix,10
+3208317450,feat(input): add SMS autocomplete support to NzInputOtpComponent,title provides conventional commit label,feat,10
+3208320625,fix(tabs): resolve memory leak caused by animation transitions,title provides conventional commit label,fix,10
+3208366231,Fix missing workspace.onDidChangeTextDocument events for notebook cell EOL changes,title provides conventional commit label,fix,10
+3208433023,feat: Implement automatic Load/Store action resolution for render graph attachments,title provides conventional commit label,feat,10
+3208434203,Fix idpDomainOpt assignment in BTPAuthenticator constructor to prevent undefined behavior,title provides conventional commit label,fix,10
+3186154990,Fix SWA CLI scripts across all 4 web frameworks,title provides conventional commit label,fix,10
+3186169437,Fix backslash escaping in strip_cpp_comments.sh for proper Bash string matching,title provides conventional commit label,fix,10
+3186197332,Fix SfTextInputLayout crash on Android with very small container widths,title provides conventional commit label,fix,10
+3219037880,Refactor bitwise flag operations to use setFlag and getFlag helpers,title provides conventional commit label,refactor,10
+3219279897,fix: Change granite vision model URL from preview to stable version,title provides conventional commit label,fix,10
+3219282636,fix: KeyError: 'fPr' when processing latex fractions in DOCX files,title provides conventional commit label,fix,10
+3219342467,Fix get_problem_ids to respect instance_ids parameter in SWE environments,title provides conventional commit label,fix,10
+3219406613,Fix null pointer dereference in set_ssl_ctx function,title provides conventional commit label,fix,10
+3134836043,Fix RootNamespace handling for dashes and starting digits in project names,title provides conventional commit label,fix,10
+3134892391,Fix WebView2 crash on close by implementing proper disposal pattern,title provides conventional commit label,fix,10
+3134901340,Fix notebook outline symbol highlighting by using range instead of position,title provides conventional commit label,fix,10
+3134908383,Fix SimpleCov coverage reporting for demo directory files,title provides conventional commit label,fix,10
+3134913454,Fix: Remove unused attachment data from ipynb files when attachment links are deleted,title provides conventional commit label,fix,10
+3134916409,Fix notebook sticky scroll flashing by using single reusable delayer,title provides conventional commit label,fix,10
+3134922059,Fix markdown cell status bar showing misleading grab cursor,title provides conventional commit label,fix,10
+3134923757,Fix markdown cell drag and drop in edit mode,title provides conventional commit label,fix,10
+3134925346,Fix breadcrumb overflow by adding max-width constraint to prevent page overflow,title provides conventional commit label,fix,10
+3134926821,Fix down arrow navigation in last notebook cell to move cursor to end of line,title provides conventional commit label,fix,10
+3134927053,Fix UsePythonVersion@0 installing incomplete Python files on Windows,title provides conventional commit label,fix,10
+3134927763,Fix infinite looping in notebook addFindMatchToSelection (Cmd+D),title provides conventional commit label,fix,10
+3134961752,Fix Rails config deprecation warning for escape_json_responses,title provides conventional commit label,fix,10
+3127543745,Fix Submods parsing and improve dark theme styling,title provides conventional commit label,fix,10
+3087031790,Fix OnlyAssignedOnReset false positive with struct arrays and for loops,title provides conventional commit label,fix,10
+3087406519,Fix mypy 1.14.1 typing errors in azure-keyvault-keys,title provides conventional commit label,fix,10
+3087462018,Fix binding SelectedDates in RangeSelectionCalendar control,title provides conventional commit label,fix,10
+3087529807,Fix incorrect architecture name for macOS,title provides conventional commit label,fix,10
+3147503921,docs: Upgrade Docusaurus from 3.7.0 to 3.8.1,title provides conventional commit label,docs,10
+3147678267,"Fix incorrect ""Restore Entry"" option shown for non-recycle bin items in search results",title provides conventional commit label,fix,10
+3163186785,Fix variable frontmatter error - handle both string and object formats for preview image fields,title provides conventional commit label,fix,10
+3271730595,Fix dead AdblockID URLs,title provides conventional commit label,fix,10
+3258699253,feat: pass crossorigin attribute value to the internal <img> element for x-image,title provides conventional commit label,feat,10
+3258721117,Fix security vulnerabilities in netty-handler and zookeeper dependencies,title provides conventional commit label,fix,10
+3127222871,Fix MTP timeout parsing to use invariant culture instead of current culture,title provides conventional commit label,fix,10
+3127353854,Fix UseAsync property in TestMethodAttribute derived classes to use type checks,title provides conventional commit label,fix,10
+3238929100,Fix WiFi not disabled during long deep sleep on ESP8266,title provides conventional commit label,fix,10
+3196793854,Fix App Setting Visibility toggle icon to reflect current state,title provides conventional commit label,fix,10
+3196863235,Fix Bicep compilation errors for AI Gallery Standard Validation,title provides conventional commit label,fix,10
+3196952174,Fix CodeQL to run only on relevant file changes with path filtering,title provides conventional commit label,fix,10
+3196955536,Fix flaky test_update_connection_password by improving teardown robustness,title provides conventional commit label,fix,10
+3196955896,Fix flaky test_cluster_scan_non_covered_slots by replacing inefficient loop with mset,title provides conventional commit label,fix,10
+3197014348,Fix trackPageView not resetting maxAjaxCallsPerView counter,title provides conventional commit label,fix,10
+3197019965,Fix MPConfig instance caching to enable SSLSocketFactory assignment,title provides conventional commit label,fix,10
+3172352593,Fix Lab M04-L10: Replace missing service principal references with service connection prerequisites,title provides conventional commit label,fix,10
+3172409641,fix: remove CAT mempool panic for duplicate peers (#1902 backport to main),title provides conventional commit label,fix,10
+3172410605,feat: add mergify rule to backport to main using S:backport-to-main label,title provides conventional commit label,feat,10
+3104922484,feat: Add comprehensive Airframe walkthrough documentation,title provides conventional commit label,feat,10
+3172617064,feat: Add GetAllMetadata endpoint for discoverable metadata queries,title provides conventional commit label,feat,10
+3172635187,Fix using transform variable shadowing in for-of loops,title provides conventional commit label,fix,10
+3172653799,Fix BigInt literal error in ambient contexts when targeting < ES2020,title provides conventional commit label,fix,10
+3172671566,Fix PowerShell@2 showWarnings to respect WarningAction preferences,title provides conventional commit label,fix,10
+3172681970,Fix proxy credentials not working from environment variables during agent configuration,title provides conventional commit label,fix,10
+3172683435,Fix apt CLI stability warning by replacing apt with apt-get in installdependencies.sh,title provides conventional commit label,fix,10
+3172683718,Fix git tag pruning when fetching with specific refspecs,title provides conventional commit label,fix,10
+3172700026,Fix TypeScript compilation dependency on Node.js for local development,title provides conventional commit label,fix,10
+3172846336,Fix RequestOptions parameter being marked required too aggressively,title provides conventional commit label,fix,10
+3172929515,"Fix dotnet new ""Add project to solution"" postAction to find .slnx files",title provides conventional commit label,fix,10
+3172947096,Fix class member completion crash in monorepo with baseUrl configuration,title provides conventional commit label,fix,10
+3075530757,feat: Implement PillowFort website support,title provides conventional commit label,feat,10
+3075628660,Fix Maximum Call Stack Size Exceeded in Worker Class,title provides conventional commit label,fix,10
+3075670611,Fix issue with LISA ignoring working_path parameter,title provides conventional commit label,fix,10
+3075726495,Fix type annotations in code,title provides conventional commit label,fix,10
+3075881390,"chore(ui): update ""Run all"" button title in UI Mode",title provides conventional commit label,chore,10
+3075994560,"fix(ui-mode): update git diff for prompt on each test run, not just at launch",title provides conventional commit label,fix,10
+3145371522,Fix rewrite rules to handle attribute references (RefAttr) properly,title provides conventional commit label,fix,10
+3145625420,Fix ClassCastException in MagicNumberDiagnostic with soft error handling,title provides conventional commit label,fix,10
+3214930915,Fix GitHub Foundations Question 145: Correct answer about file addition permissions,title provides conventional commit label,fix,10
+3182406028,feat: Configure dependabot for all Go modules in repository,title provides conventional commit label,feat,10
+3182521702,Fix iOS Custom Entitlements File Not Respected in Single Project Templates,title provides conventional commit label,fix,10
+3253454706,Fix public unscoped enum constants not visible across module boundaries,title provides conventional commit label,fix,10
+3253470499,Fix OpenTelemetry package dependency conflicts by upgrading all packages to 0.56b0,title provides conventional commit label,fix,10
+3253538190,Fix trimming-related attribute errors: add required message parameters and correct attribute names,title provides conventional commit label,fix,10
+3087761233,Fix malformed table output in aspire run command when no resources are present,title provides conventional commit label,fix,10
+3088130071,Fix Switch Activity Condition UI to Display Code Editor for JavaScript,title provides conventional commit label,fix,10
+3088147183,test(react-charting): Sparkline Chart: migrated test cases from enzyme to React Testing Library,title provides conventional commit label,test,10
+3088220705,Refactor CI workflow for parallel multi-architecture Docker builds,title provides conventional commit label,refactor,10
+3088300682,Fix VSCode extension asset path in release workflow,title provides conventional commit label,fix,10
+3131081344,Fix inconsistent scrolling behavior in notebook outline entries,title provides conventional commit label,fix,10
+3131084965,Fix scrolling not working when hovering on notebook sticky scroll,title provides conventional commit label,fix,10
+3131132181,Fix publish script failures by updating GitHub Actions and repository URL,title provides conventional commit label,fix,10
+3131144344,fix: update CODEOWNERS to use @celestiaorg/celestia-core team,title provides conventional commit label,fix,10
+3131396412,docs: Fix ClickHouse capitalization in documentation,title provides conventional commit label,docs,10
+3131464015,Fix slice bounds panic in addPropertyToElementList for reverse-mapped properties,title provides conventional commit label,fix,10
+3131467140,Fix RedPanda capitalization to Redpanda in documentation,title provides conventional commit label,fix,10
+3131521120,Fix vlx error caching by cleaning up broken installation directories,title provides conventional commit label,fix,10
+3131569548,Fix MeteorScoreEvaluator incorrect binary result due to int conversion bug,title provides conventional commit label,fix,10
+3198268737,Fix iOS AOT compatibility for chart data binding with DynamicallyAccessedMembers attributes,title provides conventional commit label,fix,10
+3198441645,feat: add floating navigation button for Chapters and Blocks,title provides conventional commit label,feat,10
+3275355990,Fix FilterList unique name constraint violations and regenerate initial migration,title provides conventional commit label,fix,10
+3166285250,Fix eth_call error format to match Geth compatibility,title provides conventional commit label,fix,10
+3166294470,Fix occasional CI test failure in debug_traceTransactionInBlockByHash with robust fallback mechanism,title provides conventional commit label,fix,10
+3141839638,chore: clean up malicious package to keep only NewConstructor functionality,title provides conventional commit label,chore,10
+3141889094,Fix language service to use Unrestricted target profile as default for notebooks,title provides conventional commit label,fix,10
+3141911382,Fix accessibility: Add proper ARIA attributes to Saved Connection items,title provides conventional commit label,fix,10
+3141911468,Fix accessibility: Add accessible names to refresh buttons in Connection Dialog,title provides conventional commit label,fix,10
+3245324344,Refactor flow.py for modular architecture with full API compatibility,title provides conventional commit label,refactor,10
+3148184085,feat: Add deny-sarif converter for cargo-deny output,title provides conventional commit label,feat,10
+3201598720,build: Add optional build tags to reduce binary size,title provides conventional commit label,build,10
+3201632241,Fix Windows compilation error: FindTargetWindow identifier not found,title provides conventional commit label,fix,10
+3201677474,Fix ListObjectsV2 pagination to support listing more than 1000 objects,title provides conventional commit label,fix,10
+3201684625,Fix MSTEST0020 codefix placing code in static constructors,title provides conventional commit label,fix,10
+3269292419,Fix accessibility: Update aria-labels for findings filter buttons to announce filter functionality,title provides conventional commit label,fix,10
+3269442198,Fix deprecated nullable parameter declarations in PHP 8.2+,title provides conventional commit label,fix,10
+3237835287,Fix traceback circular reference detection to pass test_raise.py,title provides conventional commit label,fix,10
+3237862514,Refactor Data API with graceful shutdown and add OpenAPI endpoint,title provides conventional commit label,refactor,10
+3237885331,fix(cdc): Support database.name as secret reference in CDC table creation,title provides conventional commit label,fix,10
+3237929957,feat: Include internal tables in diagnose command output,title provides conventional commit label,feat,10
+3237932553,ci: Fix e2e-deltalake-sink-rust-tests by enabling sink-deltalake feature in ci-dev builds,title provides conventional commit label,ci,10
+3237935468,refactor(connector): split connector implementations into optional features,title provides conventional commit label,refactor,10
+3085430966,Fix azdatalake directory client panic when authentication fails,title provides conventional commit label,fix,10
+3085431437,Fix fileClient.Create API failure with PermissionKey parameter,title provides conventional commit label,fix,10
+3085431994,Fix RenameSource URL encoding for paths with special characters,title provides conventional commit label,fix,10
+3085705530,Refactor hardcoded React Query keys to use centralized QueryKeys constants,title provides conventional commit label,refactor,10
+3170056340,Fix tab character escaping in Linux paths for WSL,title provides conventional commit label,fix,10
+3170071914,Fix authentication badge persistence after successful sign-in with reordered scopes,title provides conventional commit label,fix,10
